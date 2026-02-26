@@ -44,12 +44,9 @@ An example audio file and its corresponding metadata.
 - **Total Duration**: 10 hours, 42 minutes, and 20 seconds
 - **Audio Format**: 10-second, single-channel (mono) WAV files with 16 kHz sample rate and 16-bit depth.
 - **Labels**:
-  - **28 fine-grained event classes**
+  - **28 fine-grained event classes or 3 coarse-grained event classes**
   - **11 semantic POI context classes**
   - **Multi-label classification** (multiple events can occur in a single recording)
-  - **Label Types**: 
-    - 28 fine-grained event labels
-    - 11 semantic POI context labels
 
 ---
 
@@ -58,7 +55,7 @@ An example audio file and its corresponding metadata.
 
 - **Semantic Context Labeling**: For each audio clip with GPS coordinates, the corresponding location was queried using the OpenStreetMap (OSM) database. Points of Interest (POIs) within a defined square around the location were identified based on 11 OSM feature keys, covering categories such as land use, amenities, and natural features.
   
-- **Sound Event Labeling**: Sound event labels were derived from user-provided tags on Freesound. These tags were curated into a controlled vocabulary, resulting in 28 fine-grained event classes. These 28 classes were grouped into three coarse categories:
+- **Sound Event Labeling**: Sound event labels were derived from user-provided tags on Freesound. These tags were curated into a controlled vocabulary, resulting in 28 fine-grained event classes. These 28 classes were grouped into three coarse-grained categories:
   1. **Natural Sounds**: Environmental phenomena (e.g., wind, rain, water)
   2. **Human Sounds**: Sounds produced by humans (e.g., speech, footsteps, music)
   3. **Sounds of Things**: Mechanical, electronic, and man-made sounds (e.g., cars, sirens, explosions)
@@ -67,9 +64,9 @@ An example audio file and its corresponding metadata.
 
 ## Dataset Categories
 
-### Coarse Categories and Fine Categories
+### Coarse-grained Categories and Fine-grained Categories
 
-| Coarse Category       | Fine Categories                                     |
+| Coarse-grained Category       | Fine-grained Categories                                     |
 |-----------------------|------------------------------------------------------|
 | **1. Natural Sounds** | Bird sounds, Crickets, Falling water/Rain, Flowing water, Waves, Insects (Flying), Wind |
 | **2. Human Sounds**   | Speech, Footsteps, Dog, Musical instrument, Music, Singing, Shout or scream, Laughter |
@@ -145,7 +142,7 @@ Below are the results of the zero-shot audio classification, with 3 models evalu
 
 ### 3. Fine-Tuned Classification Results (Intermediate Fusion)
 
-The fine-tuned classification results (`mAP`) across 28 fine-grained categories and 3 coarse categories are presented in the table below:
+The fine-tuned classification results (`mAP`) across 28 fine-grained categories and 3 coarse-grained categories are presented in the table below:
 
 | Model   | Audio-Only | Multimodal(Intermediate-Fusion) |
 |---------|-----------------|---------------|
@@ -161,7 +158,7 @@ The fine-tuned classification results (`mAP`) across 28 fine-grained categories 
 | **AST**  | 0.904      | 0.912      |
 | **CLAP** | 0.966      | 0.968      |
 
-*Table 2. 3 coarse categories Fine-Tuned Classification Results on Geo-ATBench Dataset.*
+*Table 2. 3 coarse-grained categories Fine-Tuned Classification Results on Geo-ATBench Dataset.*
 
 ---
 
