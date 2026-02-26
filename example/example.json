@@ -1,0 +1,31 @@
+[
+  {
+    "id": "example",
+    "poi_texts": [
+      "\"Leisure\": \"Slipway\"",
+      "\"Natural\": \"Cape\"",
+      "\"Amenity\": \"toilets\"",
+      "\"Natural\": \"coastline\"",
+      "\"Highway\": \"Residential\"",
+      "\"Highway\": \"Service\"",
+      "\"Landuse\": \"farmyard\"",
+      "\"Landuse\": \"forest\"",
+      "\"Landuse\": \"meadow\"",
+      "\"Highway\": \"track\"",
+      "\"Natural\": \"Water\"",
+      "\"Waterway\": \"Drain\"",
+      "\"Landuse\": \"farmland\"",
+      "\"Natural\": \"grassland\"",
+      "\"Building\": \"House\"",
+      "\"Natural\": \"Beach\"",
+      "\"Amenity\": \"Parking\"",
+      "\"Building\": \"slurry_tank\"",
+      "\"Highway\": \"Path\""
+    ],
+    "segments": [
+      {
+        "label": "Waves"
+      }
+    ]
+  }
+]
