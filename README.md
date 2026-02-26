@@ -31,6 +31,10 @@ The `AudioSet-to-Geo-ATBench_mapping_table.json` enables compatibility between G
 - `GSC_only.py` performs classification using only GSC features.
 - `get_GSC_feature.py` extracts GSC feature representations from text embeddings using a pretrained BERT model.
 
+### 4. Example
+
+An example audio file and its corresponding metadata.
+
 
 ---
 
