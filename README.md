@@ -1,6 +1,7 @@
 # Geo-ATBench
 
-**Note**: This repository is a demo showcasing the analysis results. The full dataset will be updated here once the paper is accepted.
+**Paper:** https://arxiv.org/abs/2603.10623  
+**Dataset:** https://zenodo.org/records/18980673 
 
 Geo-ATBench is a dataset designed to enhance audio tagging performance by introducing Geospatial semantic context(GSC) through Point-of-Interest (POI) labels. It provides a unique connection between audio events and their geographical context, offering a novel approach to address the limitations of existing audio-only datasets.
 
@@ -12,9 +13,9 @@ Geo-ATBench is a dataset designed to enhance audio tagging performance by introd
 
 The `code_for_train/` directory includes scripts for:
 
-- **Audio-only training**
-- **Multimodal training**
-- **Dataset splitting and preprocessing**
+- **Audio-only training&evaluation**
+- **Multimodal training&evaluation**
+- **Dataset splitting and preprocessing** - This will generate 5 independent dataset splits
 
 ### 2. Zero-Shot Inference
 
@@ -47,18 +48,6 @@ An example audio file and its corresponding metadata.
   - **28 fine-grained event classes or 3 coarse-grained event classes**
   - **11 semantic POI context classes**
   - **Multi-label classification** (multiple events can occur in a single recording)
-
----
-
-
-## Event and Context Annotation
-
-- **Semantic Context Labeling**: For each audio clip with GPS coordinates, the corresponding location was queried using the OpenStreetMap (OSM) database. Points of Interest (POIs) within a defined square around the location were identified based on 11 OSM feature keys, covering categories such as land use, amenities, and natural features.
-  
-- **Sound Event Labeling**: Sound event labels were derived from user-provided tags on Freesound. These tags were curated into a controlled vocabulary, resulting in 28 fine-grained event classes. These 28 classes were grouped into three coarse-grained categories:
-  1. **Natural Sounds**: Environmental phenomena (e.g., wind, rain, water)
-  2. **Human Sounds**: Sounds produced by humans (e.g., speech, footsteps, music)
-  3. **Sounds of Things**: Mechanical, electronic, and man-made sounds (e.g., cars, sirens, explosions)
 
 ---
 
@@ -97,8 +86,20 @@ The metadata includes:
   Each segment includes its `label`.  
   Multiple event labels may appear within a single audio clip.
 
+**Note**: To prevent the disclosure of sensitive information, the dataset does not include the precise GPS locations of the audio recordings.
+
 ---
 
+## Event and Context Annotation
+
+- **Semantic Context Labeling**: For each audio clip with GPS coordinates, the corresponding location was queried using the OpenStreetMap (OSM) database. Points of Interest (POIs) within a defined square around the location were identified based on 11 OSM feature keys, covering categories such as land use, amenities, and natural features.
+  
+- **Sound Event Labeling**: Sound event labels were derived from user-provided tags on Freesound. These tags were curated into a controlled vocabulary, resulting in 28 fine-grained event classes. These 28 classes were grouped into three coarse-grained categories:
+  1. **Natural Sounds**: Environmental phenomena (e.g., wind, rain, water)
+  2. **Human Sounds**: Sounds produced by humans (e.g., speech, footsteps, music)
+  3. **Sounds of Things**: Mechanical, electronic, and man-made sounds (e.g., cars, sirens, explosions)
+
+---
 
 
 ![Dataset Scale 1](Figure/Dataset_Scale_1.png)
@@ -116,15 +117,15 @@ The performance of the POI-Only classification is shown below:
 
 ![POI-Only Classification](Figure/POI_Only_Result.png)
 
-*Figure 3. POI-Only Classification Results.*
+*Figure 2. POI-Only Classification Results.*
 
 ---
 
 ### 2. Zero-Shot Audio Classification
 
-Below are the results of the zero-shot audio classification, with 3 models evaluated on the dataset. The results are divided into two rows for clarity:
+Below are the results of the zero-shot audio classification, with 3 models evaluated on the dataset:
 
-#### The ROC and P-R Curves of PANNs, AST, and CLAP:
+#### The ROC Curves of PANNs, AST, and CLAP:
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <img src="Figure/PANNs_Result_1.png" width="30%" alt="Zero-Shot Image 1">
@@ -132,11 +133,7 @@ Below are the results of the zero-shot audio classification, with 3 models evalu
   <img src="Figure/Clap_Result_1.png" width="30%" alt="Zero-Shot Image 3">
 </div>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="Figure/PANNs_Result_2.png" width="30%" alt="Zero-Shot Image 4">
-  <img src="Figure/AST_Result_2.png" width="30%" alt="Zero-Shot Image 5">
-  <img src="Figure/Clap_Result_2.png" width="30%" alt="Zero-Shot Image 6">
-</div>
+*Figure 3. The ROC Curves of PANNs, AST, and CLAP.*
 
 ---
 
@@ -162,4 +159,18 @@ The fine-tuned classification results (`mAP`) across 28 fine-grained categories 
 
 ---
 
+## Citation
+
+If you use **Geo-ATBench**, please cite:
+
+```bibtex
+@misc{hou2026geoatbenchbenchmarkgeospatialaudio,
+      title={Geo-ATBench: A Benchmark for Geospatial Audio Tagging with Geospatial Semantic Context}, 
+      author={Yuanbo Hou and Yanru Wu and Qiaoqiao Ren and Shengchen Li and Stephen Roberts and Dick Botteldooren},
+      year={2026},
+      eprint={2603.10623},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2603.10623}, 
+}
 
