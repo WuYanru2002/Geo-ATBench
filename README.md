@@ -3,7 +3,14 @@
 **Paper:** https://arxiv.org/abs/2603.10623  
 **Dataset:** https://zenodo.org/records/18980673 
 
-Geo-ATBench is a dataset designed to enhance audio tagging performance by introducing Geospatial semantic context(GSC) through Point-of-Interest (POI) labels. It provides a unique connection between audio events and their geographical context, offering a novel approach to address the limitations of existing audio-only datasets.
+**Geo-ATBench** is a geographically annotated polyphonic audio benchmark containing 3,854 real-world audio clips (about 10 hours) with 28 sound event labels. Each clip is paired with a Geospatial Semantic Context (GSC) representation derived from Point-of-Interest (POI) information in OpenStreetMap, capturing the semantic characteristics of the recording location across 11 contextual categories (e.g., residential, industrial, nature). By linking audio events with their surrounding geographic environment—such as a siren recorded near a hospital or birds recorded near a park—Geo-ATBench provides a new benchmark for studying how geospatial semantics interact with acoustic representations and enables reproducible research on context-aware audio tagging.
+
+
+In the [paper](https://arxiv.org/abs/2603.10623) , we argue that sound should not be treated as an isolated signal but as a physical event embedded in a specific place, and we introduce the concept of Geospatial Semantic Context to provide AI systems with a “sense of place” alongside their “sense of hearing”, enabling more reliable understanding of real-world audio in applications such as smart cities, safety monitoring, and wildlife observation.
+
+
+To track the performance of models on the Geo-ATBench dataset, we maintain a dedicated **leaderboard** homepage, which is available at
+https://github.com/WuYanru2002/Geo-ATBench-Leaderboard
 
 ---
 
