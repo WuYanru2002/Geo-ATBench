@@ -1,8 +1,8 @@
-# Result Files
+# Supplementary Files
 
 This directory contains four result tables used to document POI--sound-event
 relationships, dataset geographic coverage, and the independent AGL1K GSC-only
-baseline. Two files are CSV and two are Excel workbooks.
+baseline.
 
 ## Files
 
