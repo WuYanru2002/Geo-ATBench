@@ -1,0 +1,957 @@
+﻿event,excel_rank,poi_value,P_value_given_event_pct,P_value_given_non_event_pct,discrimination_gap_pp,implied_balanced_accuracy_pct
+Bell,1,post_box,82.35,53.31,29.04,64.52
+Bell,2,church,84.03,57.40,26.63,63.31
+Bell,3,doctors,58.82,32.80,26.02,63.01
+Bell,4,guest_house,57.14,31.70,25.44,62.72
+Bell,5,shed,64.71,41.93,22.78,61.39
+Bell,6,fountain,65.55,44.79,20.76,60.38
+Bell,7,townhall,43.70,23.03,20.67,60.34
+Bell,8,pub,63.87,43.21,20.66,60.33
+Bell,9,museum,58.82,38.45,20.37,60.19
+Bell,10,water,93.28,73.07,20.21,60.11
+Bell,11,charging_station,62.18,42.38,19.80,59.90
+Bell,12,recycling,68.91,50.12,18.79,59.39
+Bell,13,viewpoint,57.14,38.50,18.64,59.32
+Bell,14,cathedral,26.89,8.33,18.56,59.28
+Bell,15,bar,65.55,46.99,18.56,59.28
+Bell,16,ice_cream,52.94,34.59,18.35,59.17
+Bell,17,fuel,64.71,46.48,18.23,59.11
+Bell,18,post_office,57.98,39.92,18.06,59.03
+Bell,19,theatre,52.10,34.62,17.48,58.74
+Bell,20,library,55.46,38.18,17.28,58.64
+Bell,21,bank,59.66,42.41,17.25,58.62
+Bell,22,information,82.35,65.27,17.08,58.54
+Bell,23,living_street,52.10,35.45,16.65,58.33
+Bell,24,drain,37.82,21.50,16.32,58.16
+Bell,25,restaurant,88.24,71.94,16.30,58.15
+Bell,26,industrial,73.95,58.15,15.80,57.90
+Bell,27,ruins,27.73,11.99,15.74,57.87
+Bell,28,parking_entrance,57.14,41.42,15.72,57.86
+Bell,29,hotel,66.39,50.71,15.68,57.84
+Bell,30,taxi,44.54,28.86,15.68,57.84
+Bell,31,clinic,51.26,35.85,15.41,57.70
+Bell,32,office,54.62,39.44,15.18,57.59
+Bell,33,level_crossing,37.82,22.70,15.12,57.56
+Bell,34,nightclub,36.97,21.98,14.99,57.49
+Bell,35,military,26.05,11.22,14.83,57.41
+Bell,36,building,42.86,28.25,14.61,57.30
+Bell,37,artwork,69.75,55.23,14.52,57.26
+Bell,38,stop_position,70.59,56.14,14.45,57.23
+Bell,39,river,50.42,36.06,14.36,57.18
+Bell,40,attraction,55.46,41.12,14.34,57.17
+Bell,41,cinema,36.97,22.70,14.27,57.13
+Bell,42,fast_food,73.11,58.90,14.21,57.11
+Bell,43,farmland,45.38,31.49,13.89,56.95
+Bell,44,childcare,30.25,16.41,13.84,56.92
+Bell,45,casino,25.21,11.62,13.59,56.80
+Bell,46,tree_row,61.34,48.11,13.23,56.62
+Bell,47,picnic_site,36.97,23.88,13.09,56.55
+Bell,48,bandstand,21.01,8.06,12.95,56.48
+Bell,49,switch,44.54,31.62,12.92,56.46
+Bell,50,construction,62.18,49.34,12.84,56.42
+Bird sounds,1,farmland,49.85,25.79,24.06,62.03
+Bird sounds,2,orchard,24.77,10.89,13.88,56.94
+Bird sounds,3,channel,28.13,16.01,12.12,56.06
+Bird sounds,4,track,82.57,70.45,12.12,56.06
+Boat,1,slipway,49.56,10.61,38.95,69.47
+Boat,2,cemetery,64.60,28.92,35.68,67.84
+Boat,3,beach,46.90,18.39,28.51,64.25
+Boat,4,camp_site,36.28,8.45,27.83,63.91
+Boat,5,ferry_terminal,39.82,12.70,27.12,63.56
+Boat,6,coastline,40.71,18.58,22.13,61.06
+Boat,7,farmland,53.10,31.28,21.82,60.91
+Boat,8,orchard,32.74,13.87,18.87,59.44
+Boat,9,wetland,39.82,23.34,16.48,58.24
+Boat,10,farmyard,25.66,9.36,16.30,58.15
+Boat,11,swimming_pool,18.58,2.62,15.96,57.98
+Boat,12,fitness_centre,16.81,1.10,15.71,57.86
+Boat,13,track,88.50,73.08,15.42,57.71
+Boat,14,channel,33.63,18.66,14.97,57.48
+Boat,15,sports_centre,16.81,1.92,14.89,57.45
+Boat,16,roof,18.58,3.88,14.70,57.35
+Boat,17,caravan_site,20.35,6.34,14.01,57.00
+Boat,18,church,71.68,57.82,13.86,56.93
+Boat,19,marina,13.27,0.32,12.95,56.48
+Boat,20,retail,71.68,59.48,12.20,56.10
+Boat,21,shower,22.12,11.31,10.81,55.41
+Boat,22,basin,13.27,2.51,10.76,55.38
+Boat,23,bench,84.96,74.45,10.51,55.25
+Boat,24,grass,84.07,73.56,10.51,55.25
+Boat,25,stable,11.50,1.26,10.24,55.12
+Bus,1,secondary_link,100.00,29.58,70.42,85.21
+Bus,2,cliff,86.49,17.99,68.50,84.25
+Bus,3,fitness_center,98.65,35.21,63.44,81.72
+Bus,4,university,87.84,25.34,62.50,81.25
+Bus,5,fire_station,82.43,24.26,58.17,79.09
+Bus,6,primary_link,81.08,24.26,56.82,78.41
+Bus,7,parking_space,89.19,33.25,55.94,77.97
+Bus,8,atm,100.00,44.66,55.34,77.67
+Bus,9,kindergarten,89.19,35.08,54.11,77.06
+Bus,10,proposed,74.32,20.50,53.82,76.91
+Bus,11,adult_gaming_centre,59.46,6.16,53.30,76.65
+Bus,12,library,90.54,37.70,52.84,76.42
+Bus,13,community_center,86.49,34.23,52.26,76.13
+Bus,14,dog_park,77.03,24.97,52.06,76.03
+Bus,15,recreation_ground,71.62,20.03,51.59,75.80
+Bus,16,trunk,70.27,18.89,51.38,75.69
+Bus,17,greenfield,59.46,8.10,51.36,75.68
+Bus,18,construction,100.00,48.76,51.24,75.62
+Bus,19,sports_hall,64.86,14.63,50.23,75.12
+Bus,20,museum,87.84,38.12,49.72,74.86
+Bus,21,attraction,89.19,40.63,48.56,74.28
+Bus,22,flowerbed,67.57,19.55,48.02,74.01
+Bus,23,fitness_station,72.97,25.48,47.49,73.75
+Bus,24,carport,58.11,10.77,47.34,73.67
+Bus,25,pharmacy,100.00,52.88,47.12,73.56
+Bus,26,bay,51.35,4.47,46.88,73.44
+Bus,27,parking_entrance,87.84,41.01,46.83,73.42
+Bus,28,primary,90.54,43.86,46.68,73.34
+Bus,29,stop,94.59,48.36,46.23,73.12
+Bus,30,taxi,74.32,28.47,45.85,72.92
+Bus,31,detached,78.38,32.78,45.60,72.80
+Bus,32,post_box,98.65,53.33,45.32,72.66
+Bus,33,artwork,100.00,54.81,45.19,72.59
+Bus,34,peak,58.11,12.94,45.17,72.59
+Bus,35,office,83.78,39.05,44.73,72.37
+Bus,36,switch,75.68,31.16,44.52,72.26
+Bus,37,tram_level_crossing,60.81,16.83,43.98,71.99
+Bus,38,parcel_locker,58.11,14.15,43.96,71.98
+Bus,39,traffic_signals,100.00,57.06,42.94,71.47
+Bus,40,sand,59.46,16.77,42.69,71.34
+Bus,41,building,70.27,27.88,42.39,71.19
+Bus,42,fast_food,100.00,58.54,41.46,70.73
+Bus,43,arts_centre,63.51,22.22,41.29,70.64
+Bus,44,waste_disposal,72.97,31.80,41.17,70.59
+Bus,45,corridor,59.46,18.49,40.97,70.48
+Bus,46,retail,100.00,59.05,40.95,70.47
+Bus,47,commercial,100.00,59.10,40.90,70.45
+Bus,48,disused,55.41,14.71,40.70,70.35
+Bus,49,tram_stop,60.81,20.24,40.57,70.28
+Bus,50,church,97.30,57.46,39.84,69.92
+Car,1,industrial,75.96,56.38,19.58,59.79
+Car,2,level_crossing,39.78,21.00,18.78,59.39
+Car,3,fuel,62.92,44.97,17.95,58.98
+Car,4,stop,64.94,47.20,17.74,58.87
+Car,5,retail,72.36,58.20,14.16,57.08
+Car,6,secondary_link,43.37,29.30,14.07,57.03
+Car,7,drain,34.16,20.42,13.74,56.87
+Car,8,primary_link,36.63,23.88,12.75,56.38
+Car,9,garage,54.83,43.00,11.83,55.91
+Car,10,railway,47.42,35.73,11.69,55.85
+Car,11,community_center,45.39,33.91,11.48,55.74
+Car,12,warehouse,34.16,22.94,11.22,55.61
+Car,13,secondary,80.00,68.79,11.21,55.60
+Car,14,switch,41.80,30.74,11.06,55.53
+Car,15,motel,19.33,8.27,11.06,55.53
+Car,16,university,36.18,25.29,10.89,55.45
+Car,17,library,48.31,37.46,10.85,55.42
+Car,18,primary,54.16,43.53,10.63,55.31
+Car,19,studio,24.04,13.73,10.31,55.16
+Crickets,1,orchard,26.02,13.30,12.72,56.36
+Dog,1,farmland,55.31,30.78,24.53,62.27
+Dog,2,orchard,36.87,13.33,23.54,61.77
+Dog,3,stream,71.51,54.04,17.47,58.73
+Dog,4,static_caravan,18.99,3.89,15.10,57.55
+Dog,5,cemetery,43.02,29.33,13.69,56.84
+Dog,6,grave_yard,24.02,10.83,13.19,56.59
+Dog,7,track,83.80,73.03,10.77,55.38
+Dog,8,house,86.59,76.41,10.18,55.09
+Explosion,1,subway,78.87,12.93,65.94,82.97
+Explosion,2,religious,87.32,21.97,65.35,82.67
+Explosion,3,guardhouse,69.01,3.73,65.28,82.64
+Explosion,4,nightclub,81.69,21.33,60.36,80.18
+Explosion,5,subway_entrance,73.24,13.35,59.89,79.94
+Explosion,6,light_rail,66.20,7.64,58.56,79.28
+Explosion,7,gallery,74.65,21.52,53.13,76.56
+Explosion,8,busway,59.15,7.77,51.38,75.69
+Explosion,9,proposed,71.83,20.59,51.24,75.62
+Explosion,10,museum,88.73,38.14,50.59,75.30
+Explosion,11,courthouse,66.20,15.86,50.34,75.17
+Explosion,12,biergarten,53.52,3.49,50.03,75.02
+Explosion,13,brownfield,74.65,25.01,49.64,74.82
+Explosion,14,theatre,83.10,34.26,48.84,74.42
+Explosion,15,fitness_center,83.10,35.55,47.55,73.78
+Explosion,16,elevator,73.24,25.75,47.49,73.75
+Explosion,17,fountain,91.55,44.57,46.98,73.49
+Explosion,18,dog_park,71.83,25.11,46.72,73.36
+Explosion,19,bank,88.73,42.08,46.65,73.33
+Explosion,20,channel,64.79,18.24,46.55,73.28
+Explosion,21,laser_tag,46.48,0.11,46.37,73.19
+Explosion,22,self_checkout_station,46.48,0.11,46.37,73.19
+Explosion,23,service_desk,46.48,0.11,46.37,73.19
+Explosion,24,tree_pit,46.48,0.11,46.37,73.19
+Explosion,25,amusement_arcade,56.34,9.97,46.37,73.19
+Explosion,26,health_post,46.48,0.21,46.27,73.14
+Explosion,27,primary,90.14,43.91,46.23,73.12
+Explosion,28,the embassy,46.48,0.32,46.16,73.08
+Explosion,29,civic_admin,46.48,0.37,46.11,73.05
+Explosion,30,kiosk,56.34,10.23,46.11,73.06
+Explosion,31,small_electric_vehicle_parking,46.48,0.50,45.98,72.99
+Explosion,32,road,46.48,0.56,45.92,72.96
+Explosion,33,library_dropoff,46.48,0.90,45.58,72.79
+Explosion,34,fixme,46.48,0.95,45.53,72.77
+Explosion,35,holding_position,46.48,1.06,45.42,72.71
+Explosion,36,building,73.24,27.86,45.38,72.69
+Explosion,37,telephone,69.01,23.68,45.33,72.66
+Explosion,38,events_centre,46.48,1.19,45.29,72.64
+Explosion,39,canteen,46.48,1.22,45.26,72.63
+Explosion,40,studio,59.15,14.09,45.06,72.53
+Explosion,41,mobility_hub,46.48,1.43,45.05,72.52
+Explosion,42,social_center,56.34,11.82,44.52,72.26
+Explosion,43,events_venue,59.15,14.94,44.21,72.11
+Explosion,44,tree_stump,46.48,2.38,44.10,72.05
+Explosion,45,traffic_sign,46.48,2.43,44.05,72.02
+Explosion,46,atm,88.73,44.91,43.82,71.91
+Explosion,47,library,81.69,37.91,43.78,71.89
+Explosion,48,payment_terminal,46.48,2.83,43.65,71.83
+Explosion,49,archive,46.48,3.52,42.96,71.48
+Explosion,50,platform_edge,46.48,3.52,42.96,71.48
+Falling water/Rain,1,stop_area,20.43,6.66,13.77,56.89
+Falling water/Rain,2,public_bookcase,30.34,18.38,11.96,55.98
+Falling water/Rain,3,tram,29.10,17.64,11.46,55.73
+Falling water/Rain,4,path,96.28,85.84,10.44,55.22
+Falling water/Rain,5,village_green,26.01,15.89,10.12,55.06
+Flowing water,1,track,94.65,71.63,23.02,61.51
+Flowing water,2,river,51.89,35.12,16.77,58.38
+Flowing water,3,stream,69.18,53.56,15.62,57.81
+Flowing water,4,beach,32.70,18.01,14.69,57.34
+Flowing water,5,slipway,23.90,10.66,13.24,56.62
+Footsteps,1,turning_circle,70.88,48.81,22.07,61.03
+Footsteps,2,telephone,44.21,22.95,21.26,60.63
+Footsteps,3,food_sharing,21.40,2.30,19.10,59.55
+Footsteps,4,motel,26.67,8.18,18.49,59.24
+Footsteps,5,factory,20.00,1.68,18.32,59.16
+Footsteps,6,hour,37.54,21.24,16.30,58.15
+Footsteps,7,grave_yard,25.61,10.31,15.30,57.65
+Footsteps,8,garages,46.32,31.27,15.05,57.53
+Footsteps,9,bureau_de_change,31.93,17.01,14.92,57.46
+Footsteps,10,brownfield,39.30,24.85,14.45,57.23
+Footsteps,11,car_rental,35.44,21.13,14.31,57.16
+Footsteps,12,cemetery,43.16,28.92,14.24,57.12
+Footsteps,13,religious,36.14,22.14,14.00,57.00
+Footsteps,14,warehouse,36.84,23.23,13.61,56.80
+Footsteps,15,ice_cream,47.72,34.16,13.56,56.78
+Footsteps,16,money_transfer,20.00,6.44,13.56,56.78
+Footsteps,17,cappella,34.04,20.51,13.53,56.77
+Footsteps,18,kindergarten,47.72,35.19,12.53,56.27
+Footsteps,19,motorway_link,30.53,18.13,12.40,56.20
+Footsteps,20,post_office,51.23,39.62,11.61,55.80
+Footsteps,21,public,39.30,27.85,11.45,55.73
+Footsteps,22,hostel,35.44,24.54,10.90,55.45
+Footsteps,23,motorway,30.53,20.01,10.52,55.26
+Footsteps,24,primary_link,35.09,24.57,10.52,55.26
+Helicopter,1,motel,50.00,8.93,41.07,70.53
+Helicopter,2,factory,39.66,2.48,37.18,68.59
+Helicopter,3,brownfield,60.34,25.40,34.94,67.47
+Helicopter,4,money_transfer,41.38,6.93,34.45,67.22
+Helicopter,5,motorway,51.72,20.31,31.41,65.70
+Helicopter,6,food_sharing,34.48,3.24,31.24,65.62
+Helicopter,7,turning_circle,81.03,49.97,31.06,65.53
+Helicopter,8,hostel,55.17,24.89,30.28,65.14
+Helicopter,9,motorway_junction,51.72,21.50,30.22,65.11
+Helicopter,10,motorway_link,48.28,18.60,29.68,64.84
+Helicopter,11,warehouse,53.45,23.79,29.66,64.83
+Helicopter,12,fire_station,53.45,24.95,28.50,64.25
+Helicopter,13,hour,50.00,22.02,27.98,63.99
+Helicopter,14,religious,50.00,22.76,27.24,63.62
+Helicopter,15,outdoor_seating,60.34,33.14,27.20,63.60
+Helicopter,16,bureau_de_change,44.83,17.70,27.13,63.56
+Helicopter,17,telephone,50.00,24.13,25.87,62.94
+Helicopter,18,hotel,75.86,50.82,25.04,62.52
+Helicopter,19,kindergarten,60.34,35.75,24.59,62.30
+Helicopter,20,grave_yard,34.48,11.09,23.39,61.69
+Helicopter,21,coffee,84.48,61.12,23.36,61.68
+Helicopter,22,car_rental,44.83,21.84,22.99,61.49
+Helicopter,23,fuel,68.97,46.71,22.26,61.13
+Helicopter,24,public,50.00,28.37,21.63,60.81
+Helicopter,25,vending_machine,63.79,42.76,21.03,60.52
+Helicopter,26,social facility,60.34,39.36,20.98,60.49
+Helicopter,27,heat,29.31,9.33,19.98,59.99
+Helicopter,28,house,96.55,76.58,19.97,59.98
+Helicopter,29,primary_link,44.83,25.05,19.78,59.89
+Helicopter,30,secondary_link,50.00,30.64,19.36,59.68
+Helicopter,31,parking_entrance,60.34,41.62,18.72,59.36
+Helicopter,32,cemetery,48.28,29.69,18.59,59.30
+Helicopter,33,helter,68.97,51.32,17.65,58.83
+Helicopter,34,events_venue,32.76,15.49,17.27,58.64
+Helicopter,35,park,84.48,67.65,16.83,58.41
+Helicopter,36,cappella,37.93,21.26,16.67,58.33
+Helicopter,37,stop,65.52,49.00,16.52,58.26
+Helicopter,38,swimming pool,65.52,49.18,16.34,58.17
+Helicopter,39,headland,15.52,0.00,15.52,57.76
+Helicopter,40,stable,15.52,1.34,14.18,57.09
+Helicopter,41,resort,15.52,1.92,13.60,56.80
+Helicopter,42,traffic_island,15.52,3.35,12.17,56.09
+Helicopter,43,subway,25.86,13.96,11.90,55.95
+Helicopter,44,footway,100.00,88.12,11.88,55.94
+Helicopter,45,subway_entrance,25.86,14.28,11.58,55.79
+Helicopter,46,bridleway,15.52,4.19,11.33,55.66
+Helicopter,47,bay,15.52,5.22,10.30,55.15
+Helicopter,48,plant_nursery,12.07,1.92,10.15,55.08
+Insects(Flying),1,track,90.84,72.93,17.91,58.95
+Insects(Flying),2,farmland,46.56,31.40,15.16,57.58
+Insects(Flying),3,spring,19.08,4.94,14.14,57.07
+Insects(Flying),4,swimming_pool,14.50,2.69,11.81,55.91
+Insects(Flying),5,peak,25.19,13.40,11.79,55.89
+Insects(Flying),6,orchard,25.19,14.05,11.14,55.57
+Laughter,1,charging_station,83.67,42.47,41.20,70.60
+Laughter,2,public,67.35,28.20,39.15,69.57
+Laughter,3,secondary_link,69.39,30.43,38.96,69.48
+Laughter,4,gallery,59.18,22.02,37.16,68.58
+Laughter,5,social facility,75.51,39.21,36.30,68.15
+Laughter,6,turning_circle,85.71,49.99,35.72,67.86
+Laughter,7,tertiary_link,57.14,21.76,35.38,67.69
+Laughter,8,retail,93.88,59.40,34.48,67.24
+Laughter,9,traffic_signals,91.84,57.45,34.39,67.19
+Laughter,10,construction,83.67,49.30,34.37,67.19
+Laughter,11,parking_entrance,75.51,41.47,34.04,67.02
+Laughter,12,ice_cream,67.35,34.74,32.61,66.30
+Laughter,13,street_lamp,79.59,47.20,32.39,66.19
+Laughter,14,cinema,55.10,22.73,32.37,66.19
+Laughter,15,commercial,91.84,59.47,32.37,66.19
+Laughter,16,office,71.43,39.50,31.93,65.97
+Laughter,17,kindergarten,67.35,35.72,31.63,65.81
+Laughter,18,hotel,81.63,50.80,30.83,65.41
+Laughter,19,stop,79.59,48.86,30.73,65.37
+Laughter,20,police,65.31,35.16,30.15,65.08
+Laughter,21,doctors,63.27,33.22,30.05,65.03
+Laughter,22,proposed,51.02,21.16,29.86,64.93
+Laughter,23,dentist,63.27,33.59,29.68,64.84
+Laughter,24,motorway_junction,51.02,21.58,29.44,64.72
+Laughter,25,fitness_center,65.31,36.06,29.25,64.62
+Laughter,26,library,67.35,38.34,29.01,64.50
+Laughter,27,bank,71.43,42.58,28.85,64.43
+Laughter,28,taxi,57.14,28.99,28.15,64.08
+Laughter,29,atm,73.47,45.36,28.11,64.06
+Laughter,30,outdoor_seating,61.22,33.19,28.03,64.02
+Laughter,31,corridor,46.94,18.92,28.02,64.01
+Laughter,32,clinic,63.27,35.98,27.29,63.65
+Laughter,33,school,93.88,66.99,26.89,63.45
+Laughter,34,transportation,40.82,14.09,26.73,63.36
+Laughter,35,vending_machine,69.39,42.73,26.66,63.33
+Laughter,36,coffee,87.76,61.13,26.63,63.31
+Laughter,37,civic,48.98,22.60,26.38,63.19
+Laughter,38,community_center,61.22,34.90,26.32,63.16
+Laughter,39,park,93.88,67.57,26.31,63.16
+Laughter,40,helter,77.55,51.25,26.30,63.15
+Laughter,41,terrace,53.06,26.86,26.20,63.10
+Laughter,42,the roof,85.71,59.71,26.00,63.00
+Laughter,43,veterinary,46.94,20.97,25.97,62.98
+Laughter,44,post_box,79.59,53.88,25.71,62.86
+Laughter,45,car_rental,46.94,21.87,25.07,62.53
+Laughter,46,sports_center,71.43,46.52,24.91,62.45
+Laughter,47,place_of_worship,95.92,71.35,24.57,62.29
+Laughter,48,artwork,79.59,55.37,24.22,62.11
+Laughter,49,secondary,93.88,69.78,24.10,62.05
+Laughter,50,religious,46.94,22.86,24.08,62.04
+Metro,1,subway,87.30,12.93,74.37,87.19
+Metro,2,subway_entrance,80.95,13.35,67.60,83.80
+Metro,3,flowerbed,80.95,19.47,61.48,80.74
+Metro,4,public,88.89,27.70,61.19,80.59
+Metro,5,religious,79.37,22.24,57.13,78.56
+Metro,6,station,93.65,36.53,57.12,78.56
+Metro,7,clinic,92.06,35.40,56.66,78.33
+Metro,8,cinema,77.78,22.24,55.54,77.77
+Metro,9,disused,69.84,14.59,55.25,77.62
+Metro,10,railway_crossing,69.84,14.61,55.23,77.62
+Metro,11,bicycle_rental,92.06,36.85,55.21,77.61
+Metro,12,gallery,76.19,21.60,54.59,77.30
+Metro,13,dentist,87.30,33.08,54.22,77.11
+Metro,14,doctors,85.71,32.74,52.97,76.48
+Metro,15,switch,84.13,31.15,52.98,76.49
+Metro,16,stop,100.00,48.40,51.60,75.80
+Metro,17,railway,87.30,36.24,51.06,75.53
+Metro,18,parking_entrance,92.06,41.07,50.99,75.50
+Metro,19,train_station,71.43,20.63,50.80,75.40
+Metro,20,fitness_station,76.19,25.56,50.63,75.31
+Metro,21,bank,92.06,42.13,49.93,74.97
+Metro,22,police,84.13,34.74,49.39,74.69
+Metro,23,picnic table,85.71,36.85,48.86,74.43
+Metro,24,hour,69.84,21.66,48.18,74.09
+Metro,25,library,85.71,37.93,47.78,73.89
+Metro,26,fountain,92.06,44.66,47.40,73.70
+Metro,27,elevator,73.02,25.85,47.17,73.59
+Metro,28,atm,92.06,44.95,47.11,73.56
+Metro,29,buffer_stop,68.25,21.50,46.75,73.38
+Metro,30,theatre,80.95,34.40,46.55,73.28
+Metro,31,language_school,55.56,9.55,46.01,73.00
+Metro,32,college,73.02,27.06,45.96,72.98
+Metro,33,give_way,92.06,46.21,45.85,72.92
+Metro,34,kindergarten,80.95,35.37,45.58,72.79
+Metro,35,shed,87.30,41.89,45.41,72.70
+Metro,36,fitness_center,80.95,35.69,45.26,72.63
+Metro,37,kiosk,55.56,10.34,45.22,72.61
+Metro,38,street_lamp,92.06,46.87,45.19,72.59
+Metro,39,artwork,100.00,54.95,45.05,72.53
+Metro,40,office,84.13,39.17,44.96,72.48
+Metro,41,primary,88.89,44.03,44.86,72.43
+Metro,42,construction,93.65,49.01,44.64,72.32
+Metro,43,drinking water,88.89,44.37,44.52,72.26
+Metro,44,proposed,65.08,20.81,44.27,72.13
+Metro,45,ticket_validator,49.21,5.20,44.01,72.00
+Metro,46,vending_machine,85.71,42.36,43.35,71.67
+Metro,47,nightclub,65.08,21.74,43.34,71.67
+Metro,48,detached,76.19,32.95,43.24,71.62
+Metro,49,brownfield,68.25,25.22,43.03,71.52
+Metro,50,studio,57.14,14.22,42.92,71.46
+Music,1,bicycle_rental,81.94,36.04,45.90,72.95
+Music,2,tree_row,88.89,46.95,41.94,70.97
+Music,3,helter,91.67,50.03,41.64,70.82
+Music,4,traffic_signals,96.53,56.39,40.14,70.07
+Music,5,bicycle_parking,97.22,57.44,39.78,69.89
+Music,6,artwork,92.36,54.26,38.10,69.05
+Music,7,garden,93.75,55.90,37.85,68.92
+Music,8,waste_basket,97.22,59.70,37.52,68.76
+Music,9,recycling,86.81,49.30,37.51,68.75
+Music,10,the roof,95.83,58.65,37.18,68.59
+Music,11,tram,54.17,17.22,36.95,68.47
+Music,12,cycleway,97.92,62.10,35.82,67.91
+Music,13,street_lamp,81.94,46.28,35.66,67.83
+Music,14,fountain,79.17,44.12,35.05,67.53
+Music,15,stop_area,40.97,6.52,34.45,67.22
+Music,16,park,97.92,66.74,31.18,65.59
+Music,17,tree,100.00,69.30,30.70,65.35
+Music,18,tram_crossing,47.92,17.92,30.00,65.00
+Music,19,apartments,96.53,67.49,29.04,64.52
+Music,20,drinking water,72.92,44.02,28.90,64.45
+Music,21,school,93.75,66.31,27.44,63.72
+Music,22,stop_position,82.64,55.58,27.06,63.53
+Music,23,bench,100.00,73.77,26.23,63.12
+Music,24,tram_stop,45.83,20.05,25.78,62.89
+Music,25,tram_level_crossing,42.36,16.71,25.65,62.82
+Music,26,grass,97.92,72.94,24.98,62.49
+Music,27,crossing,100.00,75.98,24.02,62.01
+Music,28,social facility,62.50,38.79,23.71,61.86
+Music,29,sports_center,69.44,45.96,23.48,61.74
+Music,30,house,99.31,76.01,23.30,61.65
+Music,31,platform,99.31,76.06,23.25,61.62
+Music,32,wood,84.03,61.02,23.01,61.50
+Music,33,bus_stop,98.61,75.85,22.76,61.38
+Music,34,theatre,56.94,34.31,22.63,61.31
+Music,35,charging_station,64.58,42.16,22.42,61.21
+Music,36,playground,90.97,69.57,21.40,60.70
+Music,37,bunker,28.47,7.17,21.30,60.65
+Music,38,give_way,67.36,46.17,21.19,60.59
+Music,39,forest,79.86,59.49,20.37,60.19
+Music,40,attraction,61.11,40.81,20.30,60.15
+Music,41,swimming pool,68.75,48.68,20.07,60.03
+Music,42,no,27.08,7.20,19.88,59.94
+Music,43,pitch,96.53,76.79,19.74,59.87
+Music,44,ditch,40.97,21.27,19.70,59.85
+Music,45,information,84.72,65.07,19.65,59.83
+Music,46,scrub,71.53,51.99,19.54,59.77
+Music,47,museum,56.94,38.38,18.56,59.28
+Music,48,wetland,41.67,23.13,18.54,59.27
+Music,49,village_green,34.03,16.06,17.97,58.98
+Music,50,shed,59.03,41.99,17.04,58.52
+Musical instrument,1,bank,77.66,41.16,36.50,68.25
+Musical instrument,2,living_street,67.55,34.34,33.21,66.60
+Musical instrument,3,clinic,67.55,34.72,32.83,66.41
+Musical instrument,4,police,65.96,33.99,31.97,65.98
+Musical instrument,5,museum,69.15,37.53,31.62,65.81
+Musical instrument,6,library,68.62,37.18,31.44,65.72
+Musical instrument,7,public,58.51,27.17,31.34,65.67
+Musical instrument,8,station,67.02,35.95,31.07,65.53
+Musical instrument,9,bar,75.53,46.13,29.40,64.70
+Musical instrument,10,park,95.74,66.48,29.26,64.63
+Musical instrument,11,pedestrian,85.64,57.06,28.58,64.29
+Musical instrument,12,post_office,66.49,39.14,27.35,63.67
+Musical instrument,13,arts_centre,48.94,21.69,27.25,63.62
+Musical instrument,14,kindergarten,61.70,34.81,26.89,63.45
+Musical instrument,15,cinema,48.40,21.85,26.55,63.28
+Musical instrument,16,veterinary,45.74,20.05,25.69,62.84
+Musical instrument,17,pharmacy,78.19,52.54,25.65,62.83
+Musical instrument,18,social facility,63.83,38.43,25.40,62.70
+Musical instrument,19,church,81.91,57.01,24.90,62.45
+Musical instrument,20,place_of_worship,95.21,70.46,24.75,62.38
+Musical instrument,21,school,90.43,66.15,24.28,62.14
+Musical instrument,22,hospital,46.28,22.61,23.67,61.84
+Musical instrument,23,dentist,56.38,32.82,23.56,61.78
+Musical instrument,24,sports_center,69.15,45.69,23.46,61.73
+Musical instrument,25,detached,55.85,32.52,23.33,61.66
+Musical instrument,26,pub,65.96,42.72,23.24,61.62
+Musical instrument,27,guest_house,54.26,31.37,22.89,61.44
+Musical instrument,28,taxi,51.06,28.23,22.83,61.41
+Musical instrument,29,fountain,67.02,44.33,22.69,61.34
+Musical instrument,30,townhall,45.21,22.56,22.65,61.33
+Musical instrument,31,construction,71.28,48.64,22.64,61.32
+Musical instrument,32,hostel,46.81,24.25,22.56,61.28
+Musical instrument,33,parking_entrance,63.30,40.81,22.49,61.24
+Musical instrument,34,the roof,81.38,58.95,22.43,61.21
+Musical instrument,35,swimming pool,70.74,48.34,22.40,61.20
+Musical instrument,36,hour,43.62,21.36,22.26,61.13
+Musical instrument,37,steps,92.02,69.91,22.11,61.05
+Musical instrument,38,street_lamp,68.62,46.54,22.08,61.04
+Musical instrument,39,crossing,97.87,75.80,22.07,61.04
+Musical instrument,40,childcare,37.77,15.77,22.00,61.00
+Musical instrument,41,railway,57.98,36.01,21.97,60.98
+Musical instrument,42,atm,66.49,44.65,21.84,60.92
+Musical instrument,43,music_school,30.32,8.59,21.73,60.86
+Musical instrument,44,hotel,71.81,50.14,21.67,60.84
+Musical instrument,45,language_school,30.85,9.25,21.60,60.80
+Musical instrument,46,apartment,39.89,18.39,21.50,60.75
+Musical instrument,47,office,60.11,38.87,21.24,60.62
+Musical instrument,48,attraction,61.70,40.53,21.17,60.59
+Musical instrument,49,fast_food,79.26,58.32,20.94,60.47
+Musical instrument,50,ice_cream,54.79,34.15,20.64,60.32
+Plane,1,the roof,87.06,57.43,29.63,64.81
+Plane,2,traffic_signals,84.41,55.32,29.09,64.55
+Plane,3,stop_area,33.82,5.29,28.53,64.27
+Plane,4,tram,44.12,16.14,27.98,63.99
+Plane,5,wood,86.76,59.48,27.28,63.64
+Plane,6,waste_basket,85.29,58.76,26.53,63.27
+Plane,7,park,92.06,65.57,26.49,63.25
+Plane,8,bicycle_rental,61.76,35.43,26.33,63.16
+Plane,9,helter,74.71,49.35,25.36,62.68
+Plane,10,bicycle_parking,81.76,56.72,25.04,62.52
+Plane,11,cycleway,85.59,61.30,24.29,62.15
+Plane,12,garden,79.41,55.18,24.23,62.11
+Plane,13,tree_row,70.00,46.44,23.56,61.78
+Plane,14,motorway,41.47,18.78,22.69,61.34
+Plane,15,tram_stop,41.18,19.07,22.11,61.06
+Plane,16,tree,89.12,68.64,20.48,60.24
+Plane,17,crossing,94.71,75.16,19.55,59.77
+Plane,18,tram_crossing,36.47,17.36,19.11,59.55
+Plane,19,tram_level_crossing,35.00,15.99,19.01,59.51
+Plane,20,grass,91.18,72.20,18.98,59.49
+Plane,21,motorway_link,35.29,17.47,17.82,58.91
+Plane,22,bench,90.29,73.25,17.04,58.52
+Plane,23,give_way,62.35,45.48,16.87,58.44
+Plane,24,bus_stop,92.06,75.21,16.85,58.43
+Plane,25,sports_center,62.06,45.36,16.70,58.35
+Plane,26,platform,92.06,75.47,16.59,58.30
+Plane,27,street_lamp,62.06,46.22,15.84,57.92
+Plane,28,stop_position,70.00,55.29,14.71,57.36
+Plane,29,tertiary,95.88,81.27,14.61,57.30
+Plane,30,school,80.59,66.05,14.54,57.27
+Plane,31,apartments,81.76,67.30,14.46,57.23
+Plane,32,village_green,29.71,15.48,14.23,57.11
+Plane,33,pitch,89.71,76.35,13.36,56.68
+Plane,34,public_bookcase,31.47,18.21,13.26,56.63
+Plane,35,house,88.82,75.73,13.09,56.54
+Plane,36,festival_grounds,14.41,1.45,12.96,56.48
+Plane,37,bunker,19.71,6.83,12.88,56.44
+Plane,38,artwork,67.35,54.55,12.80,56.40
+Plane,39,parking,98.53,85.97,12.56,56.28
+Plane,40,garages,43.24,31.33,11.91,55.95
+Plane,41,drinking water,55.88,44.05,11.83,55.92
+Plane,42,playground,80.88,69.35,11.53,55.77
+Plane,43,scrub,63.24,51.71,11.53,55.77
+Plane,44,shed,52.65,41.66,10.99,55.50
+Plane,45,path,96.47,85.77,10.70,55.35
+Plane,46,schoolyard,14.12,3.50,10.62,55.31
+Plane,47,no,17.35,7.03,10.32,55.16
+Plane,48,razed,18.24,8.17,10.07,55.03
+Shout or scream,1,fast_food,97.06,58.66,38.40,69.20
+Shout or scream,2,ice_cream,72.06,34.50,37.56,68.78
+Shout or scream,3,stop,80.88,48.68,32.20,66.10
+Shout or scream,4,theatre,64.71,34.63,30.08,65.04
+Shout or scream,5,atm,73.53,45.22,28.31,64.16
+Shout or scream,6,trunk_link,42.65,14.74,27.91,63.95
+Shout or scream,7,taxi,55.88,28.87,27.01,63.50
+Shout or scream,8,vending_machine,69.12,42.60,26.52,63.26
+Shout or scream,9,bar,73.53,47.09,26.44,63.22
+Shout or scream,10,trunk,45.59,19.41,26.18,63.09
+Shout or scream,11,museum,64.71,38.62,26.09,63.05
+Shout or scream,12,shed,67.65,42.18,25.47,62.73
+Shout or scream,13,traffic_signals,82.35,57.45,24.90,62.45
+Shout or scream,14,drinking water,69.12,44.66,24.46,62.23
+Shout or scream,15,the roof,83.82,59.61,24.21,62.10
+Shout or scream,16,hospital,47.06,23.35,23.71,61.86
+Shout or scream,17,railway,60.29,36.66,23.63,61.81
+Shout or scream,18,station,60.29,37.06,23.23,61.61
+Shout or scream,19,veterinary,44.12,20.89,23.23,61.61
+Shout or scream,20,pharmacy,76.47,53.38,23.09,61.55
+Shout or scream,21,apartments,91.18,68.17,23.01,61.51
+Shout or scream,22,proposed,44.12,21.13,22.99,61.50
+Shout or scream,23,dog_park,48.53,25.57,22.96,61.48
+Shout or scream,24,events_venue,38.24,15.35,22.89,61.45
+Shout or scream,25,commercial,82.35,59.48,22.87,61.44
+Shout or scream,26,school,89.71,66.93,22.78,61.39
+Shout or scream,27,sports_center,69.12,46.43,22.69,61.34
+Shout or scream,28,artwork,77.94,55.28,22.66,61.33
+Shout or scream,29,forest,82.35,59.85,22.50,61.25
+Shout or scream,30,car_wash,41.18,18.91,22.27,61.14
+Shout or scream,31,restaurant,94.12,72.05,22.07,61.04
+Shout or scream,32,turning_circle,72.06,50.05,22.01,61.01
+Shout or scream,33,compressed_air,26.47,4.52,21.95,60.98
+Shout or scream,34,no,29.41,7.55,21.86,60.93
+Shout or scream,35,childcare,38.24,16.46,21.78,60.89
+Shout or scream,36,parking_entrance,63.24,41.52,21.72,60.86
+Shout or scream,37,secondary,91.18,69.70,21.48,60.74
+Shout or scream,38,pitch,98.53,77.15,21.38,60.69
+Shout or scream,39,level_crossing,44.12,22.79,21.33,60.67
+Shout or scream,40,doctors,54.41,33.23,21.18,60.59
+Shout or scream,41,fountain,66.18,45.06,21.12,60.56
+Shout or scream,42,college,48.53,27.44,21.09,60.55
+Shout or scream,43,social facility,60.29,39.30,20.99,60.50
+Shout or scream,44,helter,72.06,51.22,20.84,60.42
+Shout or scream,45,garage,64.71,44.00,20.71,60.35
+Shout or scream,46,parcel_locker,35.29,14.63,20.66,60.33
+Shout or scream,47,viewpoint,58.82,38.72,20.10,60.05
+Shout or scream,48,swimming pool,69.12,49.08,20.04,60.02
+Shout or scream,49,mini_roundabout,26.47,6.50,19.97,59.98
+Shout or scream,50,fitness_center,55.88,36.08,19.80,59.90
+Singing,1,community_center,69.14,34.51,34.63,67.31
+Singing,2,dentist,64.20,33.32,30.88,65.44
+Singing,3,kindergarten,65.43,35.49,29.94,64.97
+Singing,4,transportation,43.21,13.81,29.40,64.70
+Singing,5,post_office,69.14,39.86,29.28,64.64
+Singing,6,secondary_link,59.26,30.32,28.94,64.47
+Singing,7,driving_school,40.74,11.87,28.87,64.44
+Singing,8,scrub,77.78,52.19,25.59,62.80
+Singing,9,religious,48.15,22.63,25.52,62.76
+Singing,10,public,53.09,28.17,24.92,62.46
+Singing,11,education,34.57,9.70,24.87,62.44
+Singing,12,fitness_center,60.49,35.91,24.58,62.29
+Singing,13,arts_centre,46.91,22.50,24.41,62.20
+Singing,14,brownfield,49.38,25.42,23.96,61.98
+Singing,15,railway,60.49,36.58,23.91,61.95
+Singing,16,speed_camera,44.44,21.20,23.24,61.62
+Singing,17,apartment,41.98,18.95,23.03,61.52
+Singing,18,stop,71.60,48.77,22.83,61.41
+Singing,19,doctors,55.56,33.13,22.43,61.22
+Singing,20,fuel,67.90,46.59,21.31,60.66
+Singing,21,hour,43.21,22.00,21.21,60.61
+Singing,22,office,60.49,39.46,21.03,60.52
+Singing,23,steps,91.36,70.55,20.81,60.41
+Singing,24,primary_link,45.68,24.91,20.77,60.39
+Singing,25,bank,62.96,42.51,20.45,60.23
+Singing,26,allotments,43.21,23.22,19.99,60.00
+Singing,27,escape_game,28.40,8.61,19.79,59.89
+Singing,28,trunk_link,34.57,14.82,19.75,59.88
+Singing,29,subway,33.33,13.73,19.60,59.80
+Singing,30,pharmacy,72.84,53.38,19.46,59.73
+Singing,31,subway_entrance,33.33,14.05,19.28,59.64
+Singing,32,kiosk,29.63,10.68,18.95,59.47
+Singing,33,tertiary_link,40.74,21.81,18.93,59.47
+Singing,34,place_of_worship,90.12,71.27,18.85,59.43
+Singing,35,construction,67.90,49.35,18.55,59.28
+Singing,36,school,85.19,66.95,18.24,59.12
+Singing,37,civic,40.74,22.55,18.19,59.09
+Singing,38,greenhouse,34.57,16.80,17.77,58.89
+Singing,39,monastery,23.46,5.75,17.71,58.86
+Singing,40,recreation_ground,38.27,20.65,17.62,58.81
+Singing,41,give_way,64.20,46.59,17.61,58.80
+Singing,42,trunk,37.04,19.51,17.53,58.77
+Singing,43,gallery,39.51,22.13,17.38,58.69
+Singing,44,industrial,75.31,58.28,17.03,58.52
+Singing,45,pub,60.49,43.49,17.00,58.50
+Singing,46,music_school,25.93,9.30,16.63,58.31
+Singing,47,car_rental,38.27,21.84,16.43,58.22
+Singing,48,fast_food,75.31,59.00,16.31,58.16
+Singing,49,church,74.07,57.88,16.19,58.09
+Singing,50,tree_row,64.20,48.18,16.02,58.01
+Siren,1,buffer_stop,82.61,21.16,61.45,80.72
+Siren,2,clinic,91.30,35.32,55.98,77.99
+Siren,3,university,79.71,25.57,54.14,77.07
+Siren,4,arts_centre,73.91,22.09,51.82,75.91
+Siren,5,switch,82.61,31.10,51.51,75.75
+Siren,6,doctors,84.06,32.68,51.38,75.69
+Siren,7,hospital,72.46,22.88,49.58,74.79
+Siren,8,police,84.06,34.66,49.40,74.70
+Siren,9,dentist,81.16,33.10,48.06,74.03
+Siren,10,library,85.51,37.86,47.65,73.83
+Siren,11,waste_disposal,76.81,31.78,45.03,72.52
+Siren,12,atm,89.86,44.91,44.95,72.47
+Siren,13,government,59.42,15.38,44.04,72.02
+Siren,14,community_center,78.26,34.45,43.81,71.91
+Siren,15,social facility,82.61,38.89,43.72,71.86
+Siren,16,hour,65.22,21.66,43.56,71.78
+Siren,17,nightclub,65.22,21.66,43.56,71.78
+Siren,18,kindergarten,78.26,35.35,42.91,71.46
+Siren,19,pharmacy,95.65,53.03,42.62,71.31
+Siren,20,bank,84.06,42.19,41.87,70.94
+Siren,21,station,78.26,36.72,41.54,70.77
+Siren,22,bicycle_rental,78.26,37.01,41.25,70.62
+Siren,23,gallery,62.32,21.77,40.55,70.28
+Siren,24,office,79.71,39.18,40.53,70.27
+Siren,25,railway_crossing,55.07,14.80,40.27,70.14
+Siren,26,street_lamp,86.96,46.90,40.06,70.03
+Siren,27,ice_cream,73.91,34.45,39.46,69.73
+Siren,28,commercial,98.55,59.18,39.37,69.69
+Siren,29,attraction,79.71,40.87,38.84,69.42
+Siren,30,public,66.67,28.01,38.66,69.33
+Siren,31,train_station,59.42,20.77,38.65,69.33
+Siren,32,parking_entrance,79.71,41.22,38.49,69.25
+Siren,33,telephone,62.32,23.83,38.49,69.25
+Siren,34,post_office,78.26,39.79,38.47,69.23
+Siren,35,museum,76.81,38.39,38.42,69.21
+Siren,36,stop,86.96,48.56,38.40,69.20
+Siren,37,fitness_center,73.91,35.75,38.16,69.08
+Siren,38,college,65.22,27.13,38.09,69.05
+Siren,39,pub,81.16,43.17,37.99,69.00
+Siren,40,apartment,56.52,18.76,37.76,68.88
+Siren,41,parking_space,71.01,33.66,37.35,68.68
+Siren,42,traffic_signals,94.20,57.23,36.97,68.48
+Siren,43,fast_food,95.65,58.68,36.97,68.48
+Siren,44,theatre,71.01,34.50,36.51,68.25
+Siren,45,retail,95.65,59.18,36.47,68.23
+Siren,46,studio,50.72,14.27,36.45,68.22
+Siren,47,civic,57.97,22.30,35.67,67.84
+Siren,48,construction,84.06,49.11,34.95,67.47
+Siren,49,fountain,79.71,44.81,34.90,67.45
+Siren,50,coffee,95.65,60.85,34.80,67.40
+Speech,1,ice_cream,67.23,27.87,39.36,69.68
+Speech,2,post_office,72.41,33.22,39.19,69.59
+Speech,3,atm,76.61,38.69,37.92,68.96
+Speech,4,taxi,58.96,22.61,36.35,68.17
+Speech,5,construction,77.59,43.41,34.18,67.09
+Speech,6,stop,76.75,42.99,33.76,66.88
+Speech,7,public,56.02,22.48,33.54,66.77
+Speech,8,theatre,61.90,29.08,32.82,66.41
+Speech,9,station,64.01,31.43,32.58,66.29
+Speech,10,fast_food,85.57,53.38,32.19,66.09
+Speech,11,parking_entrance,67.65,36.05,31.60,65.80
+Speech,12,coffee,86.83,55.70,31.13,65.56
+Speech,13,telephone,49.58,18.82,30.76,65.38
+Speech,14,pharmacy,78.71,48.12,30.59,65.30
+Speech,15,train_station,46.08,15.86,30.22,65.11
+Speech,16,hotel,75.77,45.61,30.16,65.08
+Speech,17,museum,63.59,33.50,30.09,65.05
+Speech,18,community_center,59.24,29.78,29.46,64.73
+Speech,19,social facility,63.59,34.24,29.35,64.67
+Speech,20,clinic,60.22,30.89,29.33,64.66
+Speech,21,bar,70.87,42.26,28.61,64.31
+Speech,22,outdoor_seating,56.72,28.28,28.44,64.22
+Speech,23,commercial,83.05,54.62,28.43,64.22
+Speech,24,office,63.03,34.65,28.38,64.19
+Speech,25,college,50.70,22.61,28.09,64.05
+Speech,26,retail,82.49,54.68,27.81,63.91
+Speech,27,vending_machine,65.55,37.96,27.59,63.80
+Speech,28,police,57.70,30.51,27.19,63.59
+Speech,29,bureau_de_change,40.20,13.09,27.11,63.55
+Speech,30,gallery,44.54,17.48,27.06,63.53
+Speech,31,hostel,47.34,20.35,26.99,63.50
+Speech,32,fitness_center,58.40,31.43,26.97,63.48
+Speech,33,library,60.64,33.73,26.91,63.46
+Speech,34,hour,44.26,17.48,26.78,63.39
+Speech,35,subway,35.01,9.39,25.62,62.81
+Speech,36,bank,63.59,38.25,25.34,62.67
+Speech,37,elevator,46.92,22.01,24.91,62.45
+Speech,38,nightclub,42.72,17.83,24.89,62.45
+Speech,39,fuel,67.23,42.45,24.78,62.39
+Speech,40,industrial,78.57,54.11,24.46,62.23
+Speech,41,hospital,43.70,19.24,24.46,62.23
+Speech,42,marketplace,42.72,18.38,24.34,62.17
+Speech,43,university,46.36,22.04,24.32,62.16
+Speech,44,artwork,75.49,51.18,24.31,62.16
+Speech,45,buffer_stop,42.02,17.77,24.25,62.12
+Speech,46,apartment,39.08,14.97,24.11,62.05
+Speech,47,bus_station,36.97,13.03,23.94,61.97
+Speech,48,doctors,53.08,29.17,23.91,61.95
+Speech,49,veterinary,40.76,16.88,23.88,61.94
+Speech,50,fountain,64.85,41.02,23.83,61.91
+Train,1,railway,90.24,34.72,55.52,77.76
+Train,2,switch,71.34,30.27,41.07,70.53
+Train,3,level_crossing,59.76,21.54,38.22,69.11
+Train,4,signal,50.61,16.88,33.73,66.87
+Train,5,station,69.51,36.04,33.47,66.73
+Train,6,post_office,70.12,39.16,30.96,65.48
+Train,7,primary,74.39,43.44,30.95,65.47
+Train,8,atm,75.00,44.42,30.58,65.29
+Train,9,building,57.32,27.43,29.89,64.94
+Train,10,buffer_stop,50.61,21.00,29.61,64.81
+Train,11,elevator,54.88,25.37,29.51,64.75
+Train,12,warehouse,51.22,23.04,28.18,64.09
+Train,13,garages,58.54,31.22,27.32,63.66
+Train,14,flowerbed,45.12,19.38,25.74,62.87
+Train,15,dentist,58.54,32.87,25.67,62.83
+Train,16,garage,68.90,43.28,25.62,62.81
+Train,17,cinema,47.56,22.06,25.50,62.75
+Train,18,railway_crossing,39.63,14.44,25.19,62.59
+Train,19,train_station,45.12,20.41,24.71,62.36
+Train,20,bank,66.46,41.90,24.56,62.28
+Train,21,university,50.00,25.50,24.50,62.25
+Train,22,government,39.02,15.15,23.87,61.94
+Train,23,industrial,81.10,57.64,23.46,61.73
+Train,24,cappella,43.90,20.51,23.39,61.69
+Train,25,bus_station,39.63,16.48,23.15,61.58
+Train,26,education,32.32,9.24,23.08,61.54
+Train,27,brownfield,47.56,24.96,22.60,61.30
+Train,28,grassland,50.00,27.59,22.41,61.20
+Train,29,studio,35.98,13.98,22.00,61.00
+Train,30,fitness_station,46.34,25.50,20.84,60.42
+Train,31,fast_food,79.27,58.46,20.81,60.41
+Train,32,car_wash,39.02,18.43,20.59,60.30
+Train,33,motorcycle_parking,37.80,17.37,20.43,60.21
+Train,34,doctors,52.44,32.76,19.68,59.84
+Train,35,bridge,28.66,9.19,19.47,59.73
+Train,36,parcel_locker,33.54,14.17,19.37,59.69
+Train,37,bar,65.85,46.75,19.10,59.55
+Train,38,attraction,59.76,40.76,19.00,59.50
+Train,39,pharmacy,71.95,52.98,18.97,59.48
+Train,40,fire_station,43.29,24.58,18.71,59.36
+Train,41,taxi,46.95,28.56,18.39,59.20
+Train,42,tertiary_link,39.63,21.44,18.19,59.09
+Train,43,courthouse,34.15,16.02,18.13,59.06
+Train,44,arts_centre,40.24,22.25,17.99,59.00
+Train,45,stop,66.46,48.48,17.98,58.99
+Train,46,parking_space,51.22,33.58,17.64,58.82
+Train,47,disused,32.32,14.74,17.58,58.79
+Train,48,speed_camera,38.41,20.95,17.46,58.73
+Train,49,abandoned,39.02,21.57,17.45,58.73
+Train,50,theatre,51.83,34.42,17.41,58.70
+Tram,1,carport,72.07,9.89,62.18,81.09
+Tram,2,parcel_locker,71.17,13.33,57.84,78.92
+Tram,3,university,81.08,24.93,56.15,78.07
+Tram,4,clinic,89.19,34.76,54.43,77.22
+Tram,5,parking_entrance,94.59,40.34,54.25,77.12
+Tram,6,fitness_center,88.29,34.89,53.40,76.70
+Tram,7,tram_level_crossing,68.47,16.16,52.31,76.16
+Tram,8,office,90.09,38.42,51.67,75.84
+Tram,9,flowerbed,70.27,19.00,51.27,75.63
+Tram,10,college,77.48,26.34,51.14,75.57
+Tram,11,tram_crossing,68.47,17.58,50.89,75.44
+Tram,12,tram_stop,70.27,19.56,50.71,75.35
+Tram,13,bridge,58.56,8.58,49.98,74.99
+Tram,14,garage,92.79,42.93,49.86,74.93
+Tram,15,fitness_station,74.77,24.95,49.82,74.91
+Tram,16,parking_space,81.98,32.91,49.07,74.53
+Tram,17,level_crossing,70.27,21.77,48.50,74.25
+Tram,18,building,75.68,27.30,48.38,74.19
+Tram,19,childcare,63.06,15.47,47.59,73.80
+Tram,20,sand,63.06,16.24,46.82,73.41
+Tram,21,community_center,80.18,33.90,46.28,73.14
+Tram,22,construction,94.59,48.41,46.18,73.09
+Tram,23,vending_machine,87.39,41.76,45.63,72.81
+Tram,24,primary,88.29,43.47,44.82,72.41
+Tram,25,detached,76.58,32.38,44.20,72.10
+Tram,26,elevator,69.37,25.35,44.02,72.01
+Tram,27,tree_row,90.99,47.26,43.73,71.86
+Tram,28,stop,90.99,48.01,42.98,71.49
+Tram,29,adult_gaming_centre,48.65,5.96,42.69,71.34
+Tram,30,proposed,62.16,20.33,41.83,70.91
+Tram,31,garages,72.97,31.18,41.79,70.89
+Tram,32,helter,91.89,50.39,41.50,70.75
+Tram,33,hospital,63.96,22.58,41.38,70.69
+Tram,34,light_rail,48.65,7.53,41.12,70.56
+Tram,35,dentist,73.87,32.78,41.09,70.55
+Tram,36,atm,85.59,44.54,41.05,70.53
+Tram,37,industrial,98.20,57.47,40.73,70.37
+Tram,38,shed,81.98,41.46,40.52,70.26
+Tram,39,dog_park,64.86,24.82,40.04,70.02
+Tram,40,bicycle_rental,76.58,36.60,39.98,69.99
+Tram,41,semidetached_house,54.05,14.21,39.84,69.92
+Tram,42,corridor,57.66,18.14,39.52,69.76
+Tram,43,abandoned,60.36,21.19,39.17,69.59
+Tram,44,turning_circle,88.29,49.32,38.97,69.48
+Tram,45,terrace,64.86,26.08,38.78,69.39
+Tram,46,garden,94.59,56.21,38.38,69.19
+Tram,47,artwork,92.79,54.58,38.21,69.11
+Tram,48,stop_position,93.69,55.49,38.20,69.10
+Tram,49,traffic_signals,94.59,56.80,37.79,68.90
+Tram,50,switch,68.47,30.94,37.53,68.77
+Truck,1,motorway_junction,50.00,21.66,28.34,64.17
+Truck,2,level_crossing,47.50,22.92,24.58,62.29
+Truck,3,industrial,82.50,58.39,24.11,62.05
+Truck,4,motorway_link,40.00,18.83,21.17,60.59
+Truck,5,railway,57.50,36.86,20.64,60.32
+Truck,6,motorway,40.00,20.58,19.42,59.71
+Truck,7,prison,22.50,4.51,17.99,58.99
+Truck,8,sand,35.00,17.41,17.59,58.80
+Truck,9,allotments,40.00,23.47,16.53,58.27
+Truck,10,heat,25.00,9.47,15.53,57.77
+Truck,11,farm,17.50,2.94,14.56,57.28
+Truck,12,services,15.00,3.12,11.88,55.94
+Truck,13,animal_shelter,12.50,1.76,10.74,55.37
+Truck,14,hunting_stand,12.50,2.23,10.27,55.13
+Vehicle horn,1,station,65.22,36.79,28.43,64.22
+Vehicle horn,2,bus_station,39.13,16.93,22.20,61.10
+Vehicle horn,3,post_office,61.96,39.95,22.01,61.00
+Vehicle horn,4,nightclub,43.48,21.93,21.55,60.77
+Vehicle horn,5,library,58.70,38.22,20.48,60.24
+Vehicle horn,6,childcare,34.78,16.40,18.38,59.19
+Vehicle horn,7,industrial,76.09,58.21,17.88,58.94
+Vehicle horn,8,primary,61.96,44.34,17.62,58.81
+Vehicle horn,9,bank,59.78,42.53,17.25,58.62
+Vehicle horn,10,motorcycle_parking,34.78,17.84,16.94,58.47
+Vehicle horn,11,dentist,50.00,33.57,16.43,58.22
+Vehicle horn,12,primary_link,41.30,24.96,16.34,58.17
+Vehicle horn,13,coffee,77.17,61.08,16.09,58.05
+Vehicle horn,14,bar,63.04,47.18,15.86,57.93
+Vehicle horn,15,atm,60.87,45.35,15.52,57.76
+Vehicle horn,16,level_crossing,38.04,22.81,15.23,57.61
+Vehicle horn,17,hostel,40.22,24.99,15.23,57.62
+Vehicle horn,18,ice_cream,50.00,34.80,15.20,57.60
+Vehicle horn,19,language_school,25.00,9.94,15.06,57.53
+Vehicle horn,20,police,50.00,35.19,14.81,57.41
+Vehicle horn,21,hospital,38.04,23.42,14.62,57.31
+Vehicle horn,22,hotel,65.22,50.85,14.37,57.19
+Vehicle horn,23,dojo,20.65,6.30,14.35,57.17
+Vehicle horn,24,office,53.26,39.58,13.68,56.84
+Vehicle horn,25,marketplace,35.87,22.57,13.30,56.65
+Vehicle horn,26,railway,50.00,36.76,13.24,56.62
+Vehicle horn,27,clinic,48.91,36.02,12.89,56.44
+Vehicle horn,28,studio,27.17,14.62,12.55,56.27
+Vehicle horn,29,apartment,31.52,19.14,12.38,56.19
+Vehicle horn,30,doctors,45.65,33.31,12.34,56.17
+Vehicle horn,31,arts_centre,34.78,22.73,12.05,56.02
+Vehicle horn,32,university,38.04,26.26,11.78,55.89
+Vehicle horn,33,events_venue,27.17,15.47,11.70,55.85
+Vehicle horn,34,coastline,30.43,18.95,11.48,55.74
+Vehicle horn,35,conference_centre,18.48,7.15,11.33,55.66
+Vehicle horn,36,common,16.30,5.77,10.53,55.27
+Waves,1,beach,75.99,14.37,61.62,80.81
+Waves,2,coastline,68.42,15.01,53.41,76.70
+Waves,3,slipway,32.89,9.94,22.95,61.48
+Waves,4,camp_site,27.63,7.69,19.94,59.97
+Waves,5,track,87.83,72.31,15.52,57.76
+Waves,6,shower,25.33,10.45,14.88,57.44
+Waves,7,farmland,44.74,30.82,13.92,56.96
+Waves,8,cliff,30.26,18.37,11.89,55.95
+Waves,9,bay,16.12,4.45,11.67,55.84
+Waves,10,orchard,24.67,13.55,11.12,55.56
+Waves,11,ferry_terminal,23.68,12.62,11.06,55.53
+Waves,12,viewpoint,49.01,38.23,10.78,55.39
+Waves,13,heat,19.41,8.79,10.62,55.31
+Wind,1,bare_rock,66.27,15.99,50.28,75.14
+Wind,2,parking_space,71.08,33.52,37.56,68.78
+Wind,3,toilets,87.95,57.68,30.27,65.14
+Wind,4,museum,68.67,38.42,30.25,65.12
+Wind,5,steps,100.00,70.35,29.65,64.83
+Wind,6,warehouse,53.01,23.60,29.41,64.70
+Wind,7,cathedral,34.94,8.33,26.61,63.30
+Wind,8,bench,100.00,74.20,25.80,62.90
+Wind,9,ruins,37.35,11.93,25.42,62.71
+Wind,10,shingle,30.12,4.75,25.37,62.69
+Wind,11,bar,72.29,47.02,25.27,62.64
+Wind,12,motorway_link,43.37,18.51,24.86,62.43
+Wind,13,flowline,25.30,0.64,24.66,62.33
+Wind,14,picnic_site,48.19,23.76,24.43,62.21
+Wind,15,river,60.24,35.99,24.25,62.12
+Wind,16,hotel,74.70,50.68,24.02,62.01
+Wind,17,bus_stop,100.00,76.19,23.81,61.91
+Wind,18,ref,25.30,1.59,23.71,61.85
+Wind,19,crossing,100.00,76.37,23.63,61.81
+Wind,20,platform,100.00,76.43,23.57,61.78
+Wind,21,polling_station,24.10,0.82,23.28,61.64
+Wind,22,motorway_junction,44.58,21.45,23.13,61.56
+Wind,23,tertiary_link,44.58,21.72,22.86,61.43
+Wind,24,cape,25.30,2.52,22.78,61.39
+Wind,25,terrace,49.40,26.70,22.70,61.35
+Wind,26,information,87.95,65.31,22.64,61.32
+Wind,27,busway,30.12,8.25,21.87,60.94
+Wind,28,post_office,61.45,40.02,21.43,60.72
+Wind,29,stripclub,25.30,3.92,21.38,60.69
+Wind,30,stop,69.88,48.79,21.09,60.55
+Wind,31,light_rail,28.92,8.27,20.65,60.33
+Wind,32,shed,62.65,42.19,20.46,60.23
+Wind,33,drinking water,65.06,44.66,20.40,60.20
+Wind,34,viewpoint,59.04,38.64,20.40,60.20
+Wind,35,allotments,43.37,23.20,20.17,60.08
+Wind,36,nightclub,42.17,22.01,20.16,60.08
+Wind,37,cycleway,83.13,63.01,20.12,60.06
+Wind,38,level_crossing,42.17,22.75,19.42,59.71
+Wind,39,motorway,39.76,20.37,19.39,59.69
+Wind,40,telephone,43.37,24.11,19.26,59.63
+Wind,41,police,54.22,35.14,19.08,59.54
+Wind,42,bunker,26.51,7.56,18.95,59.48
+Wind,43,cooking_school,19.28,0.37,18.91,59.45
+Wind,44,military,30.12,11.27,18.85,59.43
+Wind,45,fire_station,43.37,24.98,18.39,59.19
+Wind,46,clinic,54.22,35.93,18.29,59.14
+Wind,47,dentist,51.81,33.57,18.24,59.12
+Wind,48,attraction,59.04,41.18,17.86,58.93
+Wind,49,street_lamp,65.06,47.23,17.83,58.92
+Wind,50,pedestrian,75.90,58.07,17.83,58.92
