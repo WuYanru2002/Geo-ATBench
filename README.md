@@ -12,6 +12,11 @@ In the [paper](https://arxiv.org/abs/2603.10623) , we argue that sound should no
 To track the performance of models on the Geo-ATBench dataset, we maintain a dedicated **leaderboard** homepage, which is available at
 https://github.com/WuYanru2002/Geo-ATBench-Leaderboard
 
+## Updates
+
+**September 2, 2026** Additional supplementary materials have been uploaded, including overlap analysis and sound-event geographic feature analysis. These materials provide further analyses of POI overlap across data partitions, sound-event–POI associations, geographic coverage, and GSC-only baseline results.
+https://github.com/WuYanru2002/Geo-ATBench/tree/main/Supplementary_analysis
+
 ---
 
 ## Repository Overview
