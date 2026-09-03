@@ -70,7 +70,8 @@ The following files are located in `Sound_Event_Geographic_Feature_Analysis/`.
 This folder contains t-SNE visualizations of audio embeddings from PANNs, AST, and CLAP.
 
 
-## waves_poi_additional
+## POI Range Analysis
 
-This folder contains additional POI values for the Waves sound-event class.
+This folder contains three files for POI range analysis:
+Waves AP results, best extraction ranges for sound-event classes, and additional POI values for Waves.
 
