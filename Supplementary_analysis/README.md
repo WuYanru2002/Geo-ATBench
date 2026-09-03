@@ -65,6 +65,12 @@ The following files are located in `Sound_Event_Geographic_Feature_Analysis/`.
    - **`Sheet1`**: reports results for the GSC-only baseline
      on AGL1k, including Micro F1, Macro F1, Micro mAP, and Macro mAP.
      
-## t-SNE Visualization of Audio Embeddings
+## t-SNE
 
 This folder contains t-SNE visualizations of audio embeddings from PANNs, AST, and CLAP.
+
+
+## waves_poi_additional
+
+This folder contains additional POI values for the Waves sound-event class.
+
