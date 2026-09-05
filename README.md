@@ -171,6 +171,10 @@ The fine-tuned classification results (`mAP`) across 28 fine-grained categories 
 
 ---
 
+## License and Freesound Audio Attribution
+
+Geo-ATBench and its annotations, GSC information, and other materials created as part of this work are released under the CC BY-NC 4.0 license. The audio recordings were obtained through the official Freesound access mechanism. Freesound-derived audio retains the original per-recording license specified by the original uploader and is not relicensed by Geo-ATBench. For each audio recording, we provide the original Freesound source, sound ID, uploader attribution, and corresponding license information. Redistribution and reuse of each Freesound-derived audio clip follow the conditions of its original license.
+
 ## Citation
 
 If you use **Geo-ATBench**, please cite:
