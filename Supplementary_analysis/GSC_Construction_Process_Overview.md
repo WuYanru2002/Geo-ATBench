@@ -2,18 +2,6 @@
 
 This document describes how the Geographic Semantic Context (GSC) representation was constructed for each audio clip in Geo-ATBench.
 
-```mermaid
-flowchart LR
-    A[Clip GPS coordinate] --> B[Overpass API query]
-    B --> C[OSM entities and tags]
-    C --> D[Keep tags from 11 predefined OSM feature categories]
-    D --> E[English POI text units: Key: value]
-    E --> F[BERT-base-uncased]
-    F --> G[CLS vector for each POI text]
-    G --> H[Mean pooling]
-    H --> I[768-dimensional GSC vector]
-```
-
 ## 1. OSM Feature Categories
 
 We used OSM feature keys as geographic semantic categories. Eleven categories were retained from the OSM taxonomy because they cover environmental information potentially relevant to sound events, such as transportation infrastructure and buildings. Highly specific, rare, clearly overlapping, or weakly relevant categories, such as military facilities, were excluded.
