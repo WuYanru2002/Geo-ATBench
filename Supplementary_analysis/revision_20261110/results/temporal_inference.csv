@@ -1,0 +1,4 @@
+model,micro_AP_mean,micro_AP_std
+panns_late,0.832817371,0.002233019
+ast_early,0.844081768,0.002915467
+clap_inter,0.841845838,0.004530324

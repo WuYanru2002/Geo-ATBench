@@ -14,6 +14,13 @@ https://github.com/WuYanru2002/Geo-ATBench-Leaderboard
 
 ## Updates
 
+**November 10, 2026 — revision materials v1.1.** Fixed original, source-recording-disjoint,
+and location-disjoint split files, revision utility code, and summary result tables
+are available in [the revision supplement](Supplementary_analysis/revision_20261110).
+See its README for the file scope and usage, and the
+[versioned release](https://github.com/WuYanru2002/Geo-ATBench/releases/tag/v1.1).
+
+
 **September 2, 2026** Additional supplementary materials have been uploaded, including overlap analysis and sound-event geographic feature analysis. These materials provide further analyses of POI overlap across data partitions, sound-event–POI associations, geographic coverage, and GSC-only baseline results.
 https://github.com/WuYanru2002/Geo-ATBench/tree/main/Supplementary_analysis
 

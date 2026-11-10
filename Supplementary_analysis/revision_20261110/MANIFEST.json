@@ -1,0 +1,118 @@
+{
+  "version": "1.1",
+  "date": "2026-11-10",
+  "files": [
+    {
+      "path": "code/inter_attention_scaling.py",
+      "bytes": 3061,
+      "sha256": "0838ae490fd84d90e2be8297de69e3640dd0f5e1e2cfdd15595a851fdb4e0946"
+    },
+    {
+      "path": "code/location_disjoint.py",
+      "bytes": 1461,
+      "sha256": "f7aaa1c81e29289d1ea87aa2da602903756cfe73a20d5671754e8c924725c89e"
+    },
+    {
+      "path": "code/recording_disjoint.py",
+      "bytes": 1559,
+      "sha256": "b932e15ba99cf039abbf3551b03b05c242d54d10b8db03bfde49ba207406c074"
+    },
+    {
+      "path": "code/temporal_inference.py",
+      "bytes": 2539,
+      "sha256": "142d09842e822d3bedab5735d46a252b1fce2a8c8cdc069e953d448face41394"
+    },
+    {
+      "path": "code/train_with_shuffled_gsc.py",
+      "bytes": 2716,
+      "sha256": "e389297526241084007eb0600eedf4d81cead3b94aecd1c80216684c14b94a72"
+    },
+    {
+      "path": "results/inter_ablation_scaling.csv",
+      "bytes": 122,
+      "sha256": "68b4ec703742106b8a9eedf18e93091774fb24d64ced8d8bf1b784032b4b7835"
+    },
+    {
+      "path": "results/location_disjiont.csv",
+      "bytes": 315,
+      "sha256": "8ffebc6f710310898c774dcf2c4ef5f90fa6fd99fdadf0634e174cde0c06f4f5"
+    },
+    {
+      "path": "results/recording_disjiont.csv",
+      "bytes": 372,
+      "sha256": "a73c6758f8d2202ec25f374a732406bce127a34195b9a539af7f4419968c37db"
+    },
+    {
+      "path": "results/temporal_inference.csv",
+      "bytes": 139,
+      "sha256": "9917e645d1c22af1d229ed5d64cc6cb801ca978bbb2b83a945feddcbb869f853"
+    },
+    {
+      "path": "results/train_with_shuffle.csv",
+      "bytes": 139,
+      "sha256": "ccc811b840b96f08f9f780386aaf9ab8b520266d9d3554e387db64463d85d5f9"
+    },
+    {
+      "path": "splits/location_disjoint/test.csv",
+      "bytes": 16433,
+      "sha256": "ea81431c947b21152ecd9adf2872daec271f47f9ce2f6e47bba196ee2988f135"
+    },
+    {
+      "path": "splits/location_disjoint/train.csv",
+      "bytes": 71755,
+      "sha256": "c20b6dff3f19999510ce2180fb39169df6d10d16756ff3bb66d3ef4485e4ae51"
+    },
+    {
+      "path": "splits/location_disjoint/validation.csv",
+      "bytes": 12358,
+      "sha256": "b25849a12b2f1939f14ee408b467ae7774da3cbd28831c67c233c7ef5d59861b"
+    },
+    {
+      "path": "splits/original_split/test.csv",
+      "bytes": 15462,
+      "sha256": "8fe27025985c8b01daa3c70869f90d2b77f0f1c3b1ae3b33cd4e01d2fd69682d"
+    },
+    {
+      "path": "splits/original_split/train.csv",
+      "bytes": 69842,
+      "sha256": "16a27544635bc68eb496dba995f557dc4a5918006e97db2db79d248118366b07"
+    },
+    {
+      "path": "splits/original_split/validation.csv",
+      "bytes": 15233,
+      "sha256": "c0feb08f5491cb9c3a1e1898d9775249e4c057dcd3e438c268d157ac925bdeb5"
+    },
+    {
+      "path": "splits/recording_disjoint/test.csv",
+      "bytes": 16063,
+      "sha256": "89c5917b1078142594a04233b165bfe93523ae71d447ab3e02fee7bf4b8483df"
+    },
+    {
+      "path": "splits/recording_disjoint/train.csv",
+      "bytes": 69596,
+      "sha256": "f176f39da0d217ebfcdbc484ff19ff23bdd669d02d4dc4dd26507c7259d36ac9"
+    },
+    {
+      "path": "splits/recording_disjoint/validation.csv",
+      "bytes": 14887,
+      "sha256": "ae69fad411f718fb72cdf7a3aa02eb950eaf1682e518a1e5c27747d001e60b4b"
+    }
+  ],
+  "split_checks": {
+    "original_split": {
+      "train": 2697,
+      "validation": 578,
+      "test": 579
+    },
+    "recording_disjoint": {
+      "train": 2681,
+      "validation": 565,
+      "test": 608
+    },
+    "location_disjoint": {
+      "train": 2731,
+      "validation": 463,
+      "test": 660
+    }
+  }
+}
