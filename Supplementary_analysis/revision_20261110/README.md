@@ -4,6 +4,7 @@ Version: **1.1**
 Release date: **2026-11-10**  
 Code release: https://github.com/WuYanru2002/Geo-ATBench/releases/tag/v1.1  
 Dataset v1.0: https://zenodo.org/records/18980673  
+Dataset v1.1: https://zenodo.org/records/24102468
 Dataset concept DOI (all versions): https://doi.org/10.5281/zenodo.18980672
 
 ## Contents
@@ -11,9 +12,9 @@ Dataset concept DOI (all versions): https://doi.org/10.5281/zenodo.18980672
 - `code/`: scripts demonstrating the disjoint-split, temporal, fusion-ablation, shuffled-GSC training, and blinded audio-only annotation procedures.
 - `results/`: aggregate evaluation tables. The original model and fusion identifiers, metric names, and aggregation details are retained in each CSV so that results remain interpretable.
 - `splits/`: fixed Train/Validation/Test clip assignments for the three evaluation protocols.
-- `MANIFEST.json`: file checksums and split-size checks for the original release contents.
+- `MANIFEST.json`: file checksums and split-size checks.
 
-Pretrained backbone checkpoints are not stored in this Git repository because of their size. The PANNs, AST, and CLAP initialization files must be obtained separately; these are not fine-tuned experiment checkpoints.
+Pretrained backbone checkpoints are not stored in this Git repository because of GitHub file-size limits. The intended archive for the PANNs, AST, and CLAP initialization files is the Zenodo v1.1 dataset record above; verify its file list before citing the checkpoints as available. These are not fine-tuned experiment checkpoints.
 
 ## Fixed split sizes
 
