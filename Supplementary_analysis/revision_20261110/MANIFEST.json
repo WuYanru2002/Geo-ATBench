@@ -2,6 +2,13 @@
   "version": "1.1",
   "date": "2026-11-10",
   "files": [
+    {"path": "predictions/ast_audio_only_predictions.csv", "bytes": 3765518, "sha256": "8a61a6113eea82dc8fc73e768383ea8ca6ef28fa2b15ab345090be08390d2b3d"},
+    {"path": "predictions/ast_early_fusion_predictions.csv", "bytes": 3766420, "sha256": "7d0075f9d8222d78286eea012122b04b00dc92dd6ef9f2d8e55aec1964083c77"},
+    {"path": "predictions/clap_audio_only_predictions.csv", "bytes": 3760996, "sha256": "dd089b409fde503687452477956cc7d6bd78863cf182f2ceecfd44feade540ae"},
+    {"path": "predictions/clap_inter_fusion_predictions.csv", "bytes": 3770187, "sha256": "f41ddd71bf9980000377d9aff36f2c1f4bf1e6b18eb6d3db4d2ce81a079ed9e9"},
+    {"path": "predictions/gsc_only_predictions.csv", "bytes": 3730412, "sha256": "9c7b09efd39a82586592909463836f6b6c36c65c3b40e27e6d02427e33be0c94"},
+    {"path": "predictions/panns_audio_only_predictions.csv", "bytes": 3741301, "sha256": "6c524181341ac6d2a115d0ecd696a7ff35b14cff958d6ade90d4a989abe5badf"},
+    {"path": "predictions/panns_late_fusion_predictions.csv", "bytes": 3754126, "sha256": "331b0eb2e1875061d867f980b2df07c4a01ffaedbcec7405e6f55f1c78937310"},
     {
       "path": "code/blinded_audio_only.py",
       "bytes": 5580,
