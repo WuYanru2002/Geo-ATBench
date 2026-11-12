@@ -3,6 +3,16 @@
   "date": "2026-11-10",
   "files": [
     {
+      "path": "code/blinded_audio_only.py",
+      "bytes": 5580,
+      "sha256": "8b12be6019fa306c5fb190fe868a29c54a2451ab685e3c0751ad69c686414401"
+    },
+    {
+      "path": "code/shuffled_gsc_training.py",
+      "bytes": 3341,
+      "sha256": "6020d280107b84808da8c098c3119c77da3148cf72a4256db249624f97a2b474"
+    },
+    {
       "path": "code/inter_attention_scaling.py",
       "bytes": 3061,
       "sha256": "0838ae490fd84d90e2be8297de69e3640dd0f5e1e2cfdd15595a851fdb4e0946"
