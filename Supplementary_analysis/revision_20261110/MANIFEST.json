@@ -2,6 +2,13 @@
   "version": "1.1",
   "date": "2026-11-10",
   "files": [
+    {"path": "predictions/location_disjoint/ast_audio_only_predictions.csv", "bytes": 3176794, "sha256": "486d838679941e29d31039f7eddb20adbb95eb2ab6163fb43dfb7600f7ec44cf"},
+    {"path": "predictions/location_disjoint/ast_early_fusion_predictions.csv", "bytes": 3176694, "sha256": "1c0d0475f1e917212495840b4ad0c7afc20baf70fa297d376e194c816e89085f"},
+    {"path": "predictions/location_disjoint/clap_audio_only_predictions.csv", "bytes": 3176811, "sha256": "7515678234d06afd9346579b9cdaa2e7e03899f99f4868ec56d5d9332b06aae1"},
+    {"path": "predictions/location_disjoint/clap_inter_fusion_predictions.csv", "bytes": 3176637, "sha256": "90c171992157df8d7b68ffb8fd795565bc9fcae382c59d394eb863b4717ac791"},
+    {"path": "predictions/location_disjoint/gsc_only_predictions.csv", "bytes": 3084418, "sha256": "52be9167600e002e8ef06171fc6271a59fd29e12fb19e6070b0b751f2fd45e10"},
+    {"path": "predictions/location_disjoint/panns_audio_only_predictions.csv", "bytes": 3176538, "sha256": "8fd56a8300e1adca16efa61ec1ac8d399ed43a1b3b537a58b80750685b735a47"},
+    {"path": "predictions/location_disjoint/panns_late_fusion_predictions.csv", "bytes": 3176509, "sha256": "bb0cdf5c4315d3d2714c4e97842b6e1dda2e2fd100d72597659dd6dd50d7bb06"},
     {"path": "predictions/ast_audio_only_predictions.csv", "bytes": 3765518, "sha256": "8a61a6113eea82dc8fc73e768383ea8ca6ef28fa2b15ab345090be08390d2b3d"},
     {"path": "predictions/ast_early_fusion_predictions.csv", "bytes": 3766420, "sha256": "7d0075f9d8222d78286eea012122b04b00dc92dd6ef9f2d8e55aec1964083c77"},
     {"path": "predictions/clap_audio_only_predictions.csv", "bytes": 3760996, "sha256": "dd089b409fde503687452477956cc7d6bd78863cf182f2ceecfd44feade540ae"},
