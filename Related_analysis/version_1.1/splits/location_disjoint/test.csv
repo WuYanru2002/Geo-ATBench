@@ -1,0 +1,661 @@
+﻿id,class_name
+372879,Train
+378179,Footsteps
+381208_0,Flowing water
+381208_1,Flowing water
+381212_0,"Flowing water,Insects"
+381212_1,"Flowing water,Insects"
+381213_0,Musical instrument
+381213_1,Musical instrument
+381214,Musical instrument
+384010_0,"Laughter,Speech"
+384010_1,"Laughter,Speech"
+384010_2,Speech
+384010_3,Speech
+384010_4,Speech
+384011_0,Speech
+384011_1,Speech
+384012_0,Speech
+384012_1,Speech
+384012_2,Speech
+384013_0,Speech
+384013_1,Speech
+384013_2,Speech
+384013_3,Speech
+384093_0,Speech
+384093_1,Speech
+384093_2,Speech
+384338_0,Helicopter
+384338_1,Helicopter
+384338_2,"Footsteps,Helicopter"
+391435_0,Car
+391435_1,Car
+391435_2,Car
+391435_3,Car
+392635_0,Bird sounds
+392635_1,Bird sounds
+392635_2,Bird sounds
+393866_0,Bird sounds
+393866_1,"Bird sounds,Car"
+393866_2,"Bird sounds,Car"
+393866_3,"Bird sounds,Car"
+399091_0,"Flowing water,Speech"
+399091_1,"Flowing water,Speech"
+399091_2,"Flowing water,Speech"
+399091_3,"Flowing water,Speech"
+399091_4,"Flowing water,Speech"
+399091_5,"Flowing water,Speech"
+399511_0,Flowing water
+399511_1,Flowing water
+399511_2,Flowing water
+400171_0,"Musical instrument,Speech"
+400171_1,"Musical instrument,Speech"
+400171_2,"Musical instrument,Speech"
+401561_0,Helicopter
+401561_1,Helicopter
+401561_2,Helicopter
+401561_3,"Car,Helicopter"
+401561_4,Car
+401561_5,Car
+401562_0,"Footsteps,Helicopter"
+401562_1,"Footsteps,Helicopter"
+401562_2,Helicopter
+401562_3,"Footsteps,Helicopter"
+401562_4,"Footsteps,Helicopter"
+401562_5,"Footsteps,Helicopter"
+401563_0,"Car,Footsteps"
+401563_1,Footsteps
+401563_2,Footsteps
+401563_3,Footsteps
+401563_4,"Car,Footsteps"
+401563_5,"Car,Footsteps,Siren"
+401565_0,Footsteps
+401565_1,"Footsteps,Speech"
+401565_2,Footsteps
+401565_3,"Footsteps,Plane,Speech"
+401565_4,"Footsteps,Plane"
+401565_5,Footsteps
+401570_0,Footsteps
+401570_1,"Footsteps,Helicopter"
+401570_2,"Footsteps,Helicopter"
+401570_3,"Footsteps,Helicopter"
+401570_4,"Footsteps,Helicopter"
+401570_5,"Footsteps,Helicopter"
+401571_0,"Car,Footsteps"
+401571_1,"Car,Footsteps"
+401571_2,"Car,Footsteps"
+401571_3,"Car,Footsteps"
+401571_4,"Car,Footsteps"
+401571_5,"Car,Footsteps"
+401572_0,Car
+401572_1,Car
+401572_2,Car
+401572_3,Car
+401572_4,Car
+401572_5,Car
+401573_0,"Footsteps,Helicopter"
+401573_1,"Footsteps,Helicopter"
+401573_2,"Footsteps,Helicopter"
+401573_3,"Footsteps,Helicopter,Speech"
+401573_4,"Footsteps,Helicopter"
+401573_5,Footsteps
+401578_0,"Footsteps,Speech"
+401578_1,Footsteps
+401578_2,Footsteps
+401578_3,Footsteps
+401578_4,Footsteps
+401578_5,Footsteps
+401585_0,Footsteps
+401585_1,"Footsteps,Plane"
+401585_2,"Footsteps,Plane"
+401585_3,"Footsteps,Plane"
+401585_4,"Footsteps,Plane"
+401585_5,"Footsteps,Plane,Siren"
+401587_0,"Dog,Footsteps,Speech"
+401587_1,"Dog,Footsteps"
+401587_2,"Dog,Footsteps,Speech"
+401587_3,"Dog,Speech"
+401587_4,Dog
+401587_5,Dog
+401656_0,Footsteps
+401656_1,"Car,Footsteps"
+401656_2,"Car,Footsteps,Plane"
+401656_3,"Car,Footsteps,Plane"
+401656_4,"Footsteps,Plane"
+401656_5,"Footsteps,Plane"
+401996_0,Speech
+401996_1,Speech
+401996_2,Speech
+401996_3,Speech
+401996_4,Speech
+401996_5,Speech
+402097_0,Car
+402097_1,Car
+402097_2,Car
+402097_3,Car
+402097_4,Car
+402097_5,Car
+402098_0,Speech
+402098_1,Speech
+402098_2,Speech
+402098_3,Speech
+402098_4,Speech
+402098_5,Speech
+402271_0,"Shout or scream,Speech"
+402271_1,"Laughter,Speech"
+402271_2,"Laughter,Speech"
+402271_3,Speech
+402271_4,Speech
+402271_5,Speech
+402387_0,Speech
+402387_1,Speech
+402387_2,Speech
+402387_3,Speech
+402387_4,Speech
+402387_5,Speech
+402693_0,Crickets
+402693_1,Crickets
+402693_2,Crickets
+402693_3,Crickets
+412541_0,Plane
+412541_1,Plane
+412541_2,Plane
+413302_0,Speech
+413302_1,"Bell,Speech"
+415761_0,Crickets
+415761_1,Crickets
+415761_2,Crickets
+415761_3,Crickets
+415761_4,Crickets
+416783_0,Flowing water
+416783_1,Flowing water
+417541_0,"Musical instrument,Speech"
+417541_1,"Musical instrument,Speech"
+417541_2,"Musical instrument,Speech"
+417541_3,"Musical instrument,Speech"
+417541_4,"Musical instrument,Speech"
+421831_0,"Siren,Truck"
+426608_0,Musical instrument
+426608_1,"Musical instrument,Train"
+426608_2,Train
+426608_3,Train
+430961_0,Dog
+430961_1,Dog
+430961_2,Dog
+430961_3,Dog
+430961_4,Dog
+431712_0,Dog
+431712_1,Dog
+431712_2,Dog
+431712_3,Dog
+436906_0,Footsteps
+436906_1,Footsteps
+436906_2,Footsteps
+436906_3,Footsteps
+436906_4,Footsteps
+436911_0,"Falling water/Rain,Flowing water"
+436911_1,"Falling water/Rain,Flowing water"
+436911_2,"Falling water/Rain,Flowing water"
+443695_0,Falling water/Rain
+443695_1,Falling water/Rain
+456895_0,Speech
+456895_1,Speech
+456895_2,Speech
+456895_3,Speech
+459787_0,Crickets
+459787_1,Crickets
+459787_2,Crickets
+459787_3,"Bird sounds,Crickets"
+459788_0,Crickets
+459788_1,Crickets
+459788_2,Crickets
+459788_3,Crickets
+459788_4,Crickets
+459788_5,Crickets
+459789_0,"Bird sounds,Crickets"
+459789_1,"Bird sounds,Crickets"
+459789_2,Crickets
+459791_0,Crickets
+459791_1,Crickets
+459791_2,Crickets
+459792_0,"Bird sounds,Crickets"
+459792_1,"Bird sounds,Crickets"
+459792_2,"Bird sounds,Crickets"
+459792_3,"Bird sounds,Crickets"
+461720_0,Plane
+461720_1,"Bird sounds,Plane"
+461720_2,"Bird sounds,Plane"
+461720_3,"Bird sounds,Plane"
+465478_0,"Metro,Speech"
+465478_1,Metro
+467163_0,"Falling water/Rain,Footsteps,Speech"
+467163_1,"Falling water/Rain,Footsteps"
+467163_2,"Falling water/Rain,Footsteps"
+467163_3,"Falling water/Rain,Footsteps"
+469147_0,Bird sounds
+469147_1,Bird sounds
+469147_2,Bird sounds
+469147_3,Bird sounds
+473681_0,"Laughter,Musical instrument,Singing"
+473681_1,"Laughter,Musical instrument,Singing"
+473681_2,"Laughter,Musical instrument,Singing"
+473681_3,"Laughter,Musical instrument,Singing"
+473681_4,"Laughter,Musical instrument,Singing"
+473681_5,"Laughter,Musical instrument,Singing"
+474289_0,"Bird sounds,Metro"
+474289_1,"Bird sounds,Metro"
+474289_2,"Bird sounds,Metro"
+474289_3,"Bird sounds,Metro"
+474289_4,"Bird sounds,Metro"
+474289_5,Bird sounds
+475357_0,"Bird sounds,Siren"
+475357_1,"Bird sounds,Siren"
+475357_2,"Bird sounds,Siren"
+475357_3,"Bird sounds,Siren"
+475357_4,"Bird sounds,Siren"
+475357_5,Bird sounds
+477917_0,"Bus,Car"
+477917_1,"Bus,Car,Footsteps"
+477917_2,"Bus,Car,Footsteps"
+477917_3,Bus
+477917_4,Bus
+477922_0,Car
+477922_1,"Bus,Car"
+477922_2,"Bus,Car"
+477922_3,Car
+477922_4,Car
+484098_0,"Bird sounds,Footsteps,Speech"
+484098_1,"Bird sounds,Footsteps,Speech"
+484098_2,"Bird sounds,Footsteps,Speech"
+484098_3,"Bird sounds,Footsteps,Speech"
+484098_4,"Bird sounds,Footsteps,Speech"
+484098_5,"Bird sounds,Footsteps,Speech"
+484112_0,"Car,Crickets"
+484112_1,"Car,Crickets"
+484112_2,"Car,Crickets"
+484112_3,"Car,Crickets"
+484112_4,"Car,Crickets"
+484112_5,"Car,Crickets"
+484202,Footsteps
+484345_0,"Car,Crickets"
+484345_1,"Car,Crickets"
+485348_0,Speech
+485348_1,Speech
+485348_2,Speech
+485348_3,Speech
+485348_4,Speech
+485348_5,Speech
+494820_0,Speech
+494820_1,"Shout or scream,Speech"
+494820_2,"Shout or scream,Speech"
+494820_3,Speech
+494820_4,Speech
+509509,Waves
+512849_0,"Car,Laughter"
+512849_1,"Car,Laughter"
+512849_2,"Car,Laughter"
+512849_3,"Car,Speech"
+512851_0,"Car,Speech,Vehicle horn"
+512851_1,"Car,Laughter,Speech"
+512851_2,Car
+512851_3,Car
+512855_0,"Car,Speech,Vehicle horn"
+512855_1,"Car,Speech"
+512855_2,"Car,Vehicle horn"
+512855_3,"Car,Vehicle horn"
+512859_0,Bell
+512859_1,"Bell,Car,Metro"
+512859_2,"Car,Metro"
+512859_3,"Car,Metro"
+512862_0,"Car,Flowing water"
+512862_1,"Car,Flowing water,Speech"
+512862_2,"Flowing water,Speech"
+513114_0,Wind
+513114_1,Wind
+513114_2,Wind
+513114_3,Wind
+513115_0,Wind
+513115_1,Wind
+513115_2,Wind
+513115_3,Wind
+513119_0,Wind
+513119_1,Wind
+513119_2,Wind
+513119_3,Wind
+513120_0,Wind
+513120_1,Wind
+513120_2,Wind
+513120_3,Wind
+513121_0,Falling water/Rain
+513121_1,Falling water/Rain
+513121_2,Falling water/Rain
+513121_3,Falling water/Rain
+513141_0,Wind
+513141_1,Wind
+513141_2,Wind
+513141_3,Wind
+513213_0,Wind
+513213_1,Wind
+513213_2,Wind
+513213_3,Wind
+513221_0,Wind
+513221_1,Wind
+513221_2,Wind
+513221_3,Wind
+513223_0,Wind
+513223_1,Wind
+513223_2,Wind
+513223_3,Wind
+513225_0,Wind
+513225_1,Wind
+513225_2,Wind
+513225_3,Wind
+513227_0,Wind
+513227_1,Wind
+513227_2,Wind
+513227_3,Wind
+513227_4,Wind
+513452_0,Crickets
+513452_1,Crickets
+513452_2,Crickets
+513452_3,Crickets
+513452_4,Crickets
+513452_5,Crickets
+513490_0,Wind
+513490_1,Wind
+513490_2,Wind
+513496_0,Wind
+513496_1,Wind
+513496_2,Wind
+513625_0,Flowing water
+513625_1,Flowing water
+513625_2,Flowing water
+513625_3,Flowing water
+513625_4,Flowing water
+513626_0,Flowing water
+513626_1,Flowing water
+513626_2,Flowing water
+513626_3,Flowing water
+513626_4,Flowing water
+513629_0,Flowing water
+513629_1,Flowing water
+513629_2,Flowing water
+513629_3,Flowing water
+513629_4,Flowing water
+515392_0,Crickets
+515392_1,Crickets
+515392_2,Crickets
+515392_3,Crickets
+515392_4,"Car,Crickets"
+515392_5,"Car,Crickets"
+515395_0,Train
+515395_1,"Speech,Train"
+518003_0,"Metro,Speech"
+518003_1,"Metro,Speech"
+518003_2,"Metro,Speech"
+518094_0,"Bird sounds,Plane,Shout or scream"
+518094_1,"Bird sounds,Plane,Shout or scream"
+518094_2,"Bird sounds,Car,Plane"
+518094_3,"Bird sounds,Car,Plane,Speech"
+518094_4,"Bird sounds,Car,Speech"
+518094_5,"Bird sounds,Car"
+518423_0,Falling water/Rain
+518423_1,Falling water/Rain
+518423_2,Falling water/Rain
+519223_0,"Bird sounds,Crickets"
+519223_1,"Bird sounds,Crickets"
+520460_0,Musical instrument
+520460_1,Musical instrument
+520460_2,"Musical instrument,Speech"
+520460_3,"Speech,Vehicle horn"
+520463_0,"Bird sounds,Dog"
+520463_1,"Bird sounds,Dog"
+520463_2,"Bird sounds,Dog,Speech"
+520811_0,Bird sounds
+520811_1,Bird sounds
+520811_2,Bird sounds
+520811_3,Bird sounds
+529387_0,Metro
+529387_1,Metro
+529387_2,Metro
+529387_3,Metro
+532757_0,Speech
+532757_1,Speech
+532757_2,Speech
+534184,"Bird sounds,Crickets,Speech"
+536631,Dog
+537579_0,Dog
+537579_1,Dog
+537579_2,Speech
+540769_0,Crickets
+540769_1,Crickets
+540769_2,Crickets
+546782,Vehicle horn
+547926_0,Falling water/Rain
+547926_1,Falling water/Rain
+547926_2,"Falling water/Rain,Truck"
+547926_3,"Falling water/Rain,Truck"
+547926_4,"Falling water/Rain,Truck"
+547926_5,Falling water/Rain
+553149_0,"Car,Vehicle horn"
+553149_1,Car
+553150,"Car,Vehicle horn"
+555131_0,Falling water/Rain
+555131_1,"Falling water/Rain,Truck"
+555131_2,"Falling water/Rain,Truck"
+555131_3,"Falling water/Rain,Truck"
+555131_4,"Falling water/Rain,Truck"
+561343_0,"Car,Insects,Truck"
+561343_1,"Car,Insects,Truck"
+569975_0,"Car,Waves"
+569975_1,"Car,Waves"
+569975_2,"Bird sounds,Car,Plane,Waves"
+569975_3,"Bird sounds,Car,Plane,Waves"
+570360_0,Bird sounds
+570360_1,Bird sounds
+570360_2,Bird sounds
+570360_3,Bird sounds
+570360_4,Bird sounds
+572763_0,"Bird sounds,Crickets"
+572763_1,"Bird sounds,Crickets"
+572763_2,"Bird sounds,Crickets"
+576082_0,Insects
+576082_1,Insects
+576082_2,Insects
+576082_3,Insects
+577093_0,"Boat,Vehicle horn"
+577093_1,"Boat,Vehicle horn"
+577093_2,"Boat,Vehicle horn"
+577093_3,"Boat,Vehicle horn"
+581478,Dog
+585718_0,Waves
+585718_1,Waves
+585718_2,Waves
+592094_0,Speech
+592094_1,Speech
+592094_2,Speech
+607061_0,Musical instrument
+607061_1,Musical instrument
+607061_2,Musical instrument
+607061_3,Musical instrument
+607061_4,Musical instrument
+607061_5,Musical instrument
+611943_0,"Crickets,Explosion"
+611943_1,"Crickets,Explosion"
+612851_0,"Bird sounds,Crickets,Insects"
+612851_1,"Bird sounds,Crickets,Insects"
+612852_0,"Bird sounds,Crickets"
+612852_1,"Bird sounds,Crickets"
+612852_2,"Bird sounds,Crickets,Insects"
+612852_3,"Bird sounds,Crickets,Insects"
+612852_4,"Bird sounds,Crickets"
+612852_5,"Bird sounds,Crickets"
+612950,Speech
+617253_0,"Falling water/Rain,Flowing water"
+617253_1,"Falling water/Rain,Flowing water"
+617253_2,"Falling water/Rain,Flowing water"
+617253_3,"Falling water/Rain,Flowing water"
+625339_0,Plane
+625339_1,"Bird sounds,Footsteps,Plane"
+625339_2,"Bird sounds,Plane"
+625339_3,Plane
+625339_4,Plane
+632732_0,"Crickets,Explosion"
+632732_1,"Crickets,Explosion"
+632732_2,"Crickets,Explosion"
+632732_3,"Crickets,Explosion"
+632732_4,"Crickets,Explosion"
+632732_5,Crickets
+635733,Bus
+636080_0,"Bird sounds,Footsteps,Speech"
+636080_1,"Bird sounds,Footsteps,Speech"
+637064_0,Bird sounds
+637064_1,Bird sounds
+638761_0,Bird sounds
+638761_1,Bird sounds
+638761_2,Bird sounds
+638761_3,Bird sounds
+638761_4,Bird sounds
+638761_5,Bird sounds
+638911_0,"Musical instrument,Singing"
+638911_1,"Musical instrument,Singing"
+638911_2,"Musical instrument,Singing"
+638911_3,"Musical instrument,Singing"
+638911_4,Musical instrument
+646456_0,Crickets
+646456_1,Crickets
+646456_2,Crickets
+646456_3,Crickets
+650978,Crickets
+650985,"Falling water/Rain,Laughter,Shout or scream"
+651908_0,Siren
+651908_1,Siren
+651908_2,"Siren,Speech"
+651908_3,"Siren,Speech,Vehicle horn"
+651908_4,"Siren,Vehicle horn"
+651910,"Siren,Vehicle horn"
+652985_0,"Speech,Waves"
+652985_1,"Speech,Waves"
+652985_2,"Helicopter,Speech,Waves"
+652985_3,"Helicopter,Speech,Waves"
+652985_4,"Helicopter,Speech,Waves"
+653091_0,"Footsteps,Speech"
+653091_1,"Footsteps,Speech"
+661612_0,Speech
+661612_1,Speech
+661612_2,Speech
+661612_3,Speech
+661613_0,"Music,Speech"
+661613_1,"Music,Speech"
+661613_2,"Music,Speech"
+661613_3,"Music,Speech"
+667637_0,"Train,Vehicle horn"
+667637_1,"Train,Vehicle horn"
+670048_0,"Crickets,Vehicle horn"
+670048_1,"Crickets,Train,Vehicle horn"
+670048_2,"Crickets,Train,Vehicle horn"
+670048_3,"Crickets,Train,Vehicle horn"
+670048_4,Crickets
+677102_0,Speech
+677102_1,Speech
+677102_2,Speech
+677102_3,Speech
+678017_0,"Crickets,Dog,Footsteps,Speech"
+678017_1,"Crickets,Dog,Footsteps,Shout or scream,Speech"
+678017_2,"Crickets,Dog,Footsteps,Shout or scream,Speech"
+678017_3,"Crickets,Dog,Footsteps,Shout or scream"
+678017_4,"Crickets,Footsteps,Shout or scream"
+678017_5,"Crickets,Footsteps,Shout or scream"
+680725_0,"Bus,Speech"
+680725_1,"Bus,Speech"
+680725_2,"Bus,Speech"
+680725_3,"Bus,Speech"
+680725_4,"Bus,Speech"
+680725_5,"Bus,Speech"
+682010_0,"Bird sounds,Car"
+682010_1,"Bird sounds,Car"
+682010_2,"Bird sounds,Car"
+682010_3,"Bird sounds,Car"
+682483_0,Waves
+682483_1,Waves
+682483_2,Waves
+682483_3,Waves
+682495_0,Crickets
+682495_1,"Car,Crickets"
+682495_2,"Car,Crickets"
+682495_3,Crickets
+682495_4,"Car,Crickets"
+682496_0,Waves
+682496_1,"Boat,Laughter,Vehicle horn,Waves"
+682496_2,Waves
+682496_3,Waves
+682824_0,Car
+682824_1,Car
+682824_2,Car
+682824_3,Car
+683170_0,"Falling water/Rain,Plane"
+683170_1,"Falling water/Rain,Plane"
+683170_2,"Falling water/Rain,Plane"
+683278_0,"Bird sounds,Flowing water"
+683278_1,Flowing water
+683278_2,Flowing water
+683278_3,Flowing water
+683580_0,Falling water/Rain
+683580_1,Falling water/Rain
+683580_2,Falling water/Rain
+683580_3,Falling water/Rain
+685758_0,Car
+685758_1,Car
+685758_2,Plane
+685758_3,Plane
+694366_0,Explosion
+694366_1,Explosion
+694371_0,Explosion
+694371_1,Explosion
+694371_2,Explosion
+694371_3,Explosion
+694371_4,Explosion
+694372_0,Explosion
+694372_1,Explosion
+694372_2,Explosion
+694373_0,Explosion
+694373_1,Explosion
+694373_2,Explosion
+694373_3,Explosion
+694374_0,"Explosion,Tram"
+694374_1,"Explosion,Tram"
+702302_0,Falling water/Rain
+702302_1,Falling water/Rain
+702302_2,"Falling water/Rain,Truck"
+702302_3,"Falling water/Rain,Truck"
+702303_0,"Car,Falling water/Rain"
+702303_1,"Car,Falling water/Rain,Plane"
+702303_2,"Car,Falling water/Rain,Plane"
+702303_3,"Car,Falling water/Rain,Plane"
+702303_4,"Car,Falling water/Rain"
+702303_5,"Car,Falling water/Rain"
+704380_0,Crickets
+704380_1,Crickets
+704380_2,Crickets
+704380_3,Crickets
+704380_4,Crickets
+716943_0,"Car,Footsteps"
+716943_1,"Car,Footsteps"
+716943_2,Car
+716943_3,Car
+717156_0,"Falling water/Rain,Flowing water"
+717156_1,"Falling water/Rain,Flowing water"
+717156_2,"Falling water/Rain,Flowing water"
+717156_3,"Falling water/Rain,Flowing water"
+717156_4,"Falling water/Rain,Flowing water"
+717156_5,"Falling water/Rain,Flowing water"
+718276_0,"Bird sounds,Helicopter"
+718276_1,"Bird sounds,Helicopter"
+718276_2,"Bird sounds,Helicopter"
+718276_3,"Bird sounds,Helicopter"
+721516_0,"Speech,Train"
+721516_1,"Speech,Train"
+721516_2,"Speech,Train"
+721516_3,"Speech,Train"
+725576_0,"Boat,Waves"
+725576_1,"Boat,Waves"

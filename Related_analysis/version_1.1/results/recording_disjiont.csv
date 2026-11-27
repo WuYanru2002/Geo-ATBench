@@ -1,0 +1,8 @@
+model,runs,test_clips,micro_ap_mean,micro_ap_std
+panns_audio_only,5,608,0.76092954,0.004917931
+panns_late_fusion,5,608,0.78606231,0.006989377
+ast_audio_only,5,608,0.796909704,0.003916816
+ast_early_fusion,5,608,0.820931931,0.00599326
+clap_audio_only,5,608,0.815085619,0.007080278
+clap_inter_fusion,5,608,0.831106206,0.009082962
+gsc_only,5,608,0.749958746,0.005924138
